@@ -1,0 +1,89 @@
+{
+  "2022": {
+    "spring": {
+      "sat-early": {
+        "2022-05-14": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Ashanti Lennox",
+          "Laps": 3,
+          "Time": "61:37",
+          "Corrected": 3295,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-05-14": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Ashanti Lennox",
+          "Laps": 2,
+          "Time": "49:00",
+          "Corrected": 3930,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-08-27": {
+          "#": 1,
+          "SailNo": 3700,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Rob Kennaugh",
+          "Crew": "Ashanti Lennox",
+          "Laps": 1,
+          "Time": "31:48",
+          "Corrected": 1947,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-27": {
+          "#": 2,
+          "SailNo": 3700,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Rob Kennaugh",
+          "Crew": "Ashanti Lennox",
+          "HCP": 1027,
+          "Laps": 1,
+          "Time": "31:48",
+          "Corrected": 1947,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-08-27": {
+          "#": 4,
+          "SailNo": 3700,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Rob Kennaugh",
+          "Crew": "Ashanti Lennox",
+          "Laps": 4,
+          "Time": "52:57",
+          "Corrected": 3242,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

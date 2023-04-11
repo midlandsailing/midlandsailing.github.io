@@ -1,0 +1,39 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08": {
+          "#": 10,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "Verity Rose",
+          "Laps": 3,
+          "Time": "58:54",
+          "Corrected": 3127,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08": {
+          "#": 1,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "Verity Rose",
+          "HCP": 1252,
+          "Laps": 3,
+          "Time": "58:54",
+          "Corrected": 2498,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

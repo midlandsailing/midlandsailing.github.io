@@ -1,0 +1,294 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-11-05": {
+          "#": 8,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:11",
+          "Corrected": 3432,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2022-11-05": {
+          "#": 10,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "--",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 11
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-09-10": {
+          "#": 17,
+          "SailNo": "",
+          "Class": "Pico",
+          "PY": 1332,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "69:10",
+          "Corrected": 4673,
+          "&nbsp;": "",
+          "Pts": 17
+        },
+        "2022-09-17": {
+          "#": 10,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:21",
+          "Corrected": 3807,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-early-hcp": {
+        "2022-09-10": {
+          "#": 17,
+          "SailNo": "",
+          "Class": "Pico",
+          "PY": 1332,
+          "Fleet": "--",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 18
+        },
+        "2022-09-17": {
+          "#": 12,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "--",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 13
+        }
+      },
+      "sat-late": {
+        "2022-09-10": {
+          "#": 15,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "60:01",
+          "Corrected": 5729,
+          "&nbsp;": "",
+          "Pts": 15
+        },
+        "2022-09-17": {
+          "#": 12,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "56:27",
+          "Corrected": 4105,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01": {
+          "#": 16,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Stuart Jones",
+          "Crew": "Igor Bakowski",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 17
+        },
+        "2023-04-08": {
+          "#": 23,
+          "SailNo": "-",
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "47:34",
+          "Corrected": 3732,
+          "&nbsp;": "",
+          "Pts": 21
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01": {
+          "#": 16,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Stuart Jones",
+          "Crew": "Igor Bakowski",
+          "HCP": 1257,
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 16
+        },
+        "2023-04-08": {
+          "#": 24,
+          "SailNo": "-",
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 26
+        }
+      },
+      "sat-late": {
+        "2023-04-01": {
+          "#": 13,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Stuart Jones",
+          "Crew": "Igor Bakowski",
+          "Laps": 3,
+          "Time": "56:15",
+          "Corrected": 4978,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-04-08": {
+          "#": 20,
+          "SailNo": "-",
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "59:27",
+          "Corrected": 4146,
+          "&nbsp;": "",
+          "Pts": 17
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-01": {
+          "#": 13,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Stuart Jones",
+          "Crew": "Igor Bakowski",
+          "HCP": 1257,
+          "Laps": 3,
+          "Time": "56:15",
+          "Corrected": 4978,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-04-08": {
+          "#": 21,
+          "SailNo": "-",
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 22
+        }
+      },
+      "wed": {
+        "2023-04-05": {
+          "#": 16,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "50:28",
+          "Corrected": 4129,
+          "&nbsp;": "",
+          "Pts": 16
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05": {
+          "#": 16,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "--",
+          "Helm": "Igor Bakowski",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 17
+        }
+      }
+    }
+  }
+}

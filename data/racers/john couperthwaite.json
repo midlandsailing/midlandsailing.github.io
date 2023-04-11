@@ -1,0 +1,471 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-12-03.": {
+          "#": 4,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 6,
+          "Time": "1:02:52",
+          "Corrected": 3837,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-12-31.": {
+          "#": 10,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "56:15",
+          "Corrected": 4414,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-early-hcp": {
+        "2022-12-03.": {
+          "#": 3,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1144,
+          "Laps": 6,
+          "Time": "1:02:52",
+          "Corrected": 3354,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-12-31.": {
+          "#": 9,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1144,
+          "Laps": 2,
+          "Time": "56:15",
+          "Corrected": 3858,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2022-12-03.": {
+          "#": 4,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "49:60",
+          "Corrected": 2616,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late-hcp": {
+        "2022-12-03.": {
+          "#": 2,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1144,
+          "Laps": 4,
+          "Time": "49:60",
+          "Corrected": 2287,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-04-30.": {
+          "#": 6,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "57:58",
+          "Corrected": 3162,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-05-07.": {
+          "#": 10,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "59:01",
+          "Corrected": 4829,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-05-28.": {
+          "#": 7,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "58:27",
+          "Corrected": 3188,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-06-04.": {
+          "#": 5,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:08",
+          "Corrected": 3428,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late": {
+        "2022-04-30.": {
+          "#": 9,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "65:23",
+          "Corrected": 3566,
+          "&nbsp;": "",
+          "Pts": 9
+        },
+        "2022-05-07.": {
+          "#": 11,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "50:49",
+          "Corrected": 4158,
+          "&nbsp;": "",
+          "Pts": 11
+        },
+        "2022-05-28.": {
+          "#": 11,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "55:59",
+          "Corrected": 3054,
+          "&nbsp;": "",
+          "Pts": 11
+        },
+        "2022-06-04.": {
+          "#": 4,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "56:59",
+          "Corrected": 3726,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "wed": {
+        "2022-05-25.": {
+          "#": 8,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "46:00",
+          "Corrected": 3345,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-08-20.": {
+          "#": 3,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "57:58",
+          "Corrected": 3790,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-20.": {
+          "#": 1,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1147,
+          "Laps": 4,
+          "Time": "57:58",
+          "Corrected": 3304,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-15.": {
+          "#": 5,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "59:09",
+          "Corrected": 3226,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late": {
+        "2022-01-15.": {
+          "#": 3,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:18",
+          "Corrected": 3804,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01.": {
+          "#": 13,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "50:53",
+          "Corrected": 4626,
+          "&nbsp;": "",
+          "Pts": 13
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01.": {
+          "#": 10,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1138,
+          "Laps": 3,
+          "Time": "50:53",
+          "Corrected": 4065,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "wed": {
+        "2023-04-05.": {
+          "#": 14,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "49:37",
+          "Corrected": 3893,
+          "&nbsp;": "",
+          "Pts": 14
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05.": {
+          "#": 12,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1138,
+          "Laps": 2,
+          "Time": "49:37",
+          "Corrected": 3421,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-01-07.": {
+          "#": 6,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "57:23",
+          "Corrected": 3002,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2023-02-04.": {
+          "#": 6,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "60:19",
+          "Corrected": 3290,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-07.": {
+          "#": 3,
+          "SailNo": 101372,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1144,
+          "Laps": 4,
+          "Time": "57:23",
+          "Corrected": 2624,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-02-04.": {
+          "#": 3,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1144,
+          "Laps": 3,
+          "Time": "60:19",
+          "Corrected": 2876,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2023-02-04.": {
+          "#": 9,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "60:32",
+          "Corrected": 4127,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-late-hcp": {
+        "2023-02-04.": {
+          "#": 4,
+          "SailNo": 82560,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "John Couperthwaite",
+          "Crew": "",
+          "HCP": 1144,
+          "Laps": 4,
+          "Time": "60:32",
+          "Corrected": 3608,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

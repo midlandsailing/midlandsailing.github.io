@@ -1,0 +1,68 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-29": {
+          "#": 8,
+          "SailNo": 22629,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "S",
+          "Helm": "Trevor Pearson",
+          "Crew": "Steve Nicholson",
+          "Laps": 4,
+          "Time": "50:02",
+          "Corrected": 3344,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-11-12": {
+          "#": 3,
+          "SailNo": 22629,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "S",
+          "Helm": "Trevor Pearson",
+          "Crew": "Steve Nicholson",
+          "Laps": 5,
+          "Time": "61:30",
+          "Corrected": 3947,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-29": {
+          "#": 4,
+          "SailNo": 22629,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "S",
+          "Helm": "Trevor Pearson",
+          "Crew": "Steve Nicholson",
+          "HCP": 1144,
+          "Laps": 4,
+          "Time": "50:02",
+          "Corrected": 2923,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-11-12": {
+          "#": 2,
+          "SailNo": 22629,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "S",
+          "Helm": "Trevor Pearson",
+          "Crew": "Steve Nicholson",
+          "HCP": 1144,
+          "Laps": 5,
+          "Time": "61:30",
+          "Corrected": 3450,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

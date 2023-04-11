@@ -1,0 +1,44 @@
+{
+  "2022": {
+    "special": {
+      "laser": {
+        "1": {
+          "#": 2,
+          "SailNo": 212061,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Simon Hardiman",
+          "Club": "Bartley SC",
+          "Time": "56:25",
+          "Corrected": 3077,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2": {
+          "#": 12,
+          "SailNo": 212061,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Simon Hardiman",
+          "Club": "Bartley SC",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "OCS",
+          "Pts": 13
+        },
+        "3": {
+          "#": 4,
+          "SailNo": 212061,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Simon Hardiman",
+          "Club": "Bartley SC",
+          "Time": "61:01",
+          "Corrected": 3328,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

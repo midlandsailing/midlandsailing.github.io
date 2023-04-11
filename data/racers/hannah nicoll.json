@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "303-s": {
+        "1.": {
+          "#": 4,
+          "SailNo": 3220,
+          "Helm": "Hannah Nicoll",
+          "Club": "Whitefriars SC",
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2.": {
+          "#": 5,
+          "SailNo": 3220,
+          "Helm": "Hannah Nicoll",
+          "Club": "Whitefriars SC",
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "3.": {
+          "#": 5,
+          "SailNo": 3220,
+          "Helm": "Hannah Nicoll",
+          "Club": "Whitefriars SC",
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

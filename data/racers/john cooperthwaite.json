@@ -1,0 +1,39 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08.": {
+          "#": 19,
+          "SailNo": 52560,
+          "Class": "Laser",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "John Cooperthwaite",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "62:09",
+          "Corrected": 3390,
+          "&nbsp;": "",
+          "Pts": 17
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08.": {
+          "#": 19,
+          "SailNo": 52560,
+          "Class": "Laser",
+          "PY": 1100,
+          "Fleet": "--",
+          "Helm": "John Cooperthwaite",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 26
+        }
+      }
+    }
+  }
+}

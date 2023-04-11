@@ -1,0 +1,22 @@
+{
+  "2022": {
+    "spring": {
+      "wed": {
+        "2022-06-29": {
+          "#": 3,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "John Tailby",
+          "Laps": 4,
+          "Time": "63:06",
+          "Corrected": 3637,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 3221,
+      "Helm": "Ian Chearman",
+      "Crew": "Enid Chearman",
+      "Club": "Carsington SC",
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": "",
+      "Helm": "Gemma Tuffey",
+      "Crew": "Raymond Wong",
+      "Club": "Midland SC",
+      "&nbsp;": "",
+      "Pts": 2
+    }
+  ]
+}

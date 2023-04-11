@@ -1,0 +1,89 @@
+{
+  "2022": {
+    "spring": {
+      "sat-early": {
+        "2022-06-04.": {
+          "#": 6,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mina Wardakhan",
+          "Laps": 4,
+          "Time": "57:27",
+          "Corrected": 3517,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late": {
+        "2022-06-04.": {
+          "#": 8,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mina Wardakhan",
+          "Laps": 4,
+          "Time": "56:05",
+          "Corrected": 4292,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-09-03.": {
+          "#": 7,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Mina Wardakhan",
+          "Laps": 4,
+          "Time": "52:41",
+          "Corrected": 4032,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2022-09-03.": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Mina Wardakhan",
+          "HCP": 1142,
+          "Laps": 4,
+          "Time": "52:41",
+          "Corrected": 3531,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2022-09-03.": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Mina Wardakhan",
+          "Laps": 5,
+          "Time": "56:02",
+          "Corrected": 4117,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

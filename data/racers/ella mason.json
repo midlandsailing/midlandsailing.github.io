@@ -1,0 +1,71 @@
+{
+  "2022": {
+    "summer": {
+      "sat-early": {
+        "2022-08-27.": {
+          "#": 7,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Ella Mason",
+          "Crew": "Freya Mason",
+          "Laps": 1,
+          "Time": "53:40",
+          "Corrected": 2850,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-27.": {
+          "#": 7,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "--",
+          "Helm": "Ella Mason",
+          "Crew": "Freya Mason",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 8
+        }
+      },
+      "sat-late": {
+        "2022-08-27.": {
+          "#": 3,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Ella Mason",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "60:08",
+          "Corrected": 3193,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "wed": {
+        "2022-08-31.": {
+          "#": 6,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Freya Mason",
+          "Crew": "Ella Mason",
+          "Laps": 4,
+          "Time": "62:38",
+          "Corrected": 4157,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    }
+  }
+}

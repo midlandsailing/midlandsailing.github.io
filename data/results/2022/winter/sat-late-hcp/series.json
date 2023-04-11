@@ -1,0 +1,168 @@
+{
+  "header": [
+    "#",
+    "Helm",
+    "Score",
+    {
+      "a": "Race 1",
+      "br": "",
+      "#text": "2022-01-01"
+    },
+    {
+      "a": "Race 2",
+      "br": "",
+      "#text": "2022-01-08"
+    },
+    {
+      "a": "Race 3",
+      "br": "",
+      "#text": "2022-01-15"
+    }
+  ],
+  "racers": [
+    {
+      "#": "1st",
+      "Helm": "Paul Wolstenholme",
+      "Score": 2,
+      "Race 1": 1,
+      "Race 2": -2,
+      "Race 3": 1
+    },
+    {
+      "#": "2nd",
+      "Helm": "Mike Homer",
+      "Score": 6,
+      "Race 1": 2,
+      "Race 2": -5,
+      "Race 3": 4
+    },
+    {
+      "#": "3rd",
+      "Helm": "Lawrence Bowbanks",
+      "Score": 8,
+      "Race 1": 4,
+      "Race 2": 4,
+      "Race 3": "DNC"
+    },
+    {
+      "#": "4th",
+      "Helm": "Oliver Mason",
+      "Score": 9,
+      "Race 1": 3,
+      "Race 2": -6,
+      "Race 3": 6
+    },
+    {
+      "#": "5th",
+      "Helm": "Chris Martin",
+      "Score": 36,
+      "Race 1": "NOP",
+      "Race 2": "NOP",
+      "Race 3": "DNC"
+    },
+    {
+      "#": "6th",
+      "Helm": "Paul Young",
+      "Score": 36,
+      "Race 1": "NOP",
+      "Race 2": "NOP",
+      "Race 3": "DNC"
+    },
+    {
+      "#": "7th",
+      "Helm": "Evan Base",
+      "Score": 36,
+      "Race 1": "NOP",
+      "Race 2": "NOP",
+      "Race 3": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "David Wheeler",
+      "Score": 19,
+      "Race 1": "DNC",
+      "Race 2": 1,
+      "Race 3": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Megan Ward",
+      "Score": 20,
+      "Race 1": "DNC",
+      "Race 2": "DNC",
+      "Race 3": 2
+    },
+    {
+      "#": "DNQ",
+      "Helm": "John Couperthwaite",
+      "Score": 21,
+      "Race 1": "DNC",
+      "Race 2": "DNC",
+      "Race 3": 3
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Rob Thorp",
+      "Score": 21,
+      "Race 1": "DNC",
+      "Race 2": 3,
+      "Race 3": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Mike Colles",
+      "Score": 23,
+      "Race 1": "DNC",
+      "Race 2": "DNC",
+      "Race 3": 5
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Julian Harms",
+      "Score": 23,
+      "Race 1": 5,
+      "Race 2": "DNC",
+      "Race 3": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Phil Deeley",
+      "Score": 25,
+      "Race 1": "DNC",
+      "Race 2": "DNC",
+      "Race 3": 7
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Ilana Davis",
+      "Score": 28,
+      "Race 1": "DNC",
+      "Race 2": "DNC",
+      "Race 3": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Lazaros Andronis",
+      "Score": 36,
+      "Race 1": "DNC",
+      "Race 2": "DNC",
+      "Race 3": "NOP"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Richard Adams",
+      "Score": 36,
+      "Race 1": "NOP",
+      "Race 2": "DNC",
+      "Race 3": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Rob Kennaugh",
+      "Score": 36,
+      "Race 1": "NOP",
+      "Race 2": "DNC",
+      "Race 3": "DNC"
+    }
+  ]
+}

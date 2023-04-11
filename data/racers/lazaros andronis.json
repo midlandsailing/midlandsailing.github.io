@@ -1,0 +1,832 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-01.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "55:33",
+          "Corrected": 2906,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-10-29.": {
+          "#": 5,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "48:11",
+          "Corrected": 3151,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-11-19.": {
+          "#": 9,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "68:58",
+          "Corrected": 4266,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-01.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 5,
+          "Time": "55:33",
+          "Corrected": 2906,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-29.": {
+          "#": 8,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 4,
+          "Time": "48:11",
+          "Corrected": 3151,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-19.": {
+          "#": 12,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 2,
+          "Time": "68:58",
+          "Corrected": 4266,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-10-01.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "58:07",
+          "Corrected": 3648,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-10-08.": {
+          "#": 4,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "57:29",
+          "Corrected": 3759,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-10-29.": {
+          "#": 5,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "56:41",
+          "Corrected": 2965,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-11-12.": {
+          "#": 4,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "56:50",
+          "Corrected": 4394,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-11-19.": {
+          "#": 10,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "65:41",
+          "Corrected": 4063,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-12-03.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "44:21",
+          "Corrected": 2320,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-01.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 5,
+          "Time": "58:07",
+          "Corrected": 3648,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-08.": {
+          "#": 9,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 4,
+          "Time": "57:29",
+          "Corrected": 3759,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-29.": {
+          "#": 8,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 3,
+          "Time": "56:41",
+          "Corrected": 2965,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-12.": {
+          "#": 7,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 4,
+          "Time": "56:50",
+          "Corrected": 4394,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-19.": {
+          "#": 12,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 4,
+          "Time": "65:41",
+          "Corrected": 4063,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-12-03.": {
+          "#": 3,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1062,
+          "Laps": 4,
+          "Time": "44:21",
+          "Corrected": 2320,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-04-30.": {
+          "#": 9,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 10
+        },
+        "2022-05-21.": {
+          "#": 6,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "59:28",
+          "Corrected": 3678,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-06-04.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "49:55",
+          "Corrected": 2611,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-06-11.": {
+          "#": 1,
+          "SailNo": 29010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "50:04",
+          "Corrected": 3274,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late": {
+        "2022-04-30.": {
+          "#": 10,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "58:48",
+          "Corrected": 3637,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-05-21.": {
+          "#": 4,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "51:55",
+          "Corrected": 3211,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-06-04.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "63:40",
+          "Corrected": 3330,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "wed": {
+        "2022-05-04.": {
+          "#": 5,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "50:16",
+          "Corrected": 3887,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-06-22.": {
+          "#": 9,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 10
+        },
+        "2022-06-29.": {
+          "#": 8,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "66:23",
+          "Corrected": 4106,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-08-06.": {
+          "#": 7,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-06.": {
+          "#": 5,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1060,
+          "Laps": "",
+          "Time": "",
+          "Corrected": 999998,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-08-06.": {
+          "#": 6,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 8
+        }
+      },
+      "wed": {
+        "2022-09-21.": {
+          "#": 9,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "67:59",
+          "Corrected": 4205,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-15.": {
+          "#": 1,
+          "SailNo": 1274,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:12",
+          "Corrected": 2821,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late": {
+        "2022-01-15.": {
+          "#": 1,
+          "SailNo": 1274,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "59:10",
+          "Corrected": 3536,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01.": {
+          "#": 9,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "54:15",
+          "Corrected": 4195,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01.": {
+          "#": 14,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 4,
+          "Time": "54:15",
+          "Corrected": 4195,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-01-07.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "50:35",
+          "Corrected": 2646,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2023-02-04.": {
+          "#": 8,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "63:21",
+          "Corrected": 3314,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2023-03-04.": {
+          "#": 7,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "56:34",
+          "Corrected": 3499,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2023-03-18.": {
+          "#": 9,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "60:10",
+          "Corrected": 3722,
+          "&nbsp;": "",
+          "Pts": 9
+        },
+        "2023-03-25.": {
+          "#": 1,
+          "SailNo": 219010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "55:24",
+          "Corrected": 2898,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-07.": {
+          "#": 4,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 4,
+          "Time": "50:35",
+          "Corrected": 2646,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-04.": {
+          "#": 10,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 3,
+          "Time": "63:21",
+          "Corrected": 3314,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-04.": {
+          "#": 11,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 3,
+          "Time": "56:34",
+          "Corrected": 3499,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-18.": {
+          "#": 10,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 3,
+          "Time": "60:10",
+          "Corrected": 3722,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-25.": {
+          "#": 2,
+          "SailNo": 219010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 4,
+          "Time": "55:24",
+          "Corrected": 2898,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-01-07.": {
+          "#": 1,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "43:14",
+          "Corrected": 2262,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2023-02-04.": {
+          "#": 2,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "58:43",
+          "Corrected": 3839,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2023-03-18.": {
+          "#": 8,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 10
+        },
+        "2023-03-25.": {
+          "#": 2,
+          "SailNo": 219010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "58:18",
+          "Corrected": 3812,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late-hcp": {
+        "2023-01-07.": {
+          "#": 2,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 3,
+          "Time": "43:14",
+          "Corrected": 2262,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-04.": {
+          "#": 6,
+          "SailNo": 209010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 4,
+          "Time": "58:43",
+          "Corrected": 3839,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-18.": {
+          "#": 9,
+          "SailNo": 516,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": "",
+          "Time": "",
+          "Corrected": 999998,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-25.": {
+          "#": 4,
+          "SailNo": 219010,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "G",
+          "Helm": "Lazaros Andronis",
+          "Crew": "",
+          "HCP": 1078,
+          "Laps": 4,
+          "Time": "58:18",
+          "Corrected": 3812,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

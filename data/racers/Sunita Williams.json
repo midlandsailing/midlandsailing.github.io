@@ -1,0 +1,55 @@
+{
+  "2022": {
+    "summer": {
+      "sat-early": {
+        "2022-07-30": {
+          "#": 4,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Sunita Williams",
+          "Laps": 3,
+          "Time": "45:17",
+          "Corrected": 3697,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-30": {
+          "#": 4,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Sunita Williams",
+          "HCP": 1251,
+          "Laps": 3,
+          "Time": "45:17",
+          "Corrected": 2955,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2022-07-30": {
+          "#": 5,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Sunita Williams",
+          "Laps": 4,
+          "Time": "64:11",
+          "Corrected": 3930,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

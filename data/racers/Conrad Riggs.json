@@ -1,0 +1,171 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-08": {
+          "#": 8,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "Laps": 4,
+          "Time": "59:09",
+          "Corrected": 3926,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-08": {
+          "#": 7,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "HCP": 1184,
+          "Laps": 4,
+          "Time": "59:09",
+          "Corrected": 3316,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2022-10-08": {
+          "#": 10,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "Laps": 4,
+          "Time": "61:13",
+          "Corrected": 4063,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-08": {
+          "#": 4,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "HCP": 1184,
+          "Laps": 4,
+          "Time": "61:13",
+          "Corrected": 3432,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-28": {
+          "#": 12,
+          "SailNo": 14045,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Conrad Riggs",
+          "Crew": "Lisa Riggs",
+          "Laps": 2,
+          "Time": "46:40",
+          "Corrected": 3717,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      },
+      "sat-late": {
+        "2022-05-28": {
+          "#": 13,
+          "SailNo": 14045,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Conrad Riggs",
+          "Crew": "Lisa Riggs",
+          "Laps": 2,
+          "Time": "40:18",
+          "Corrected": 3210,
+          "&nbsp;": "",
+          "Pts": 13
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-23": {
+          "#": 13,
+          "SailNo": 14045,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Conrad Riggs",
+          "Crew": "Lisa Riggs",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 14
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-23": {
+          "#": 13,
+          "SailNo": 14045,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Conrad Riggs",
+          "Crew": "Lisa Riggs",
+          "HCP": 1380,
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 13
+        }
+      },
+      "wed": {
+        "2022-07-06": {
+          "#": 10,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Conrad Riggs",
+          "Laps": 4,
+          "Time": "54:38",
+          "Corrected": 3345,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-07-20": {
+          "#": 10,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Conrad Riggs",
+          "Laps": 4,
+          "Time": "50:44",
+          "Corrected": 3883,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      }
+    }
+  }
+}

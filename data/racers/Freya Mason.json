@@ -1,0 +1,383 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-12-31": {
+          "#": 9,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": 3,
+          "Time": "72:17",
+          "Corrected": 4142,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-early-hcp": {
+        "2022-12-31": {
+          "#": 10,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "HCP": 1008,
+          "Laps": 3,
+          "Time": "72:17",
+          "Corrected": 4142,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-12-31": {
+          "#": 10,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNF",
+          "Pts": 11
+        }
+      },
+      "sat-late-hcp": {
+        "2022-12-31": {
+          "#": 10,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "HCP": 1008,
+          "Laps": "",
+          "Time": "",
+          "Corrected": 999998,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "spring": {
+      "wed": {
+        "2022-06-29": {
+          "#": 2,
+          "SailNo": 13204,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Mike Homer",
+          "Crew": "Freya Mason",
+          "Laps": 3,
+          "Time": "50:50",
+          "Corrected": 3599,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-09": {
+          "#": 1,
+          "SailNo": 13176,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "53:50",
+          "Corrected": 2858,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-08-27": {
+          "#": 7,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Ella Mason",
+          "Crew": "Freya Mason",
+          "Laps": 1,
+          "Time": "53:40",
+          "Corrected": 2850,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-09-10": {
+          "#": 2,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Freya Mason",
+          "Laps": 3,
+          "Time": "61:39",
+          "Corrected": 3553,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-09": {
+          "#": 5,
+          "SailNo": 13176,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "HCP": 1017,
+          "Laps": 4,
+          "Time": "53:50",
+          "Corrected": 2858,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-08-27": {
+          "#": 7,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "--",
+          "Helm": "Ella Mason",
+          "Crew": "Freya Mason",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 8
+        },
+        "2022-09-10": {
+          "#": 10,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Freya Mason",
+          "HCP": 1003,
+          "Laps": 3,
+          "Time": "61:39",
+          "Corrected": 3553,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-07-09": {
+          "#": 2,
+          "SailNo": 13176,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "53:00",
+          "Corrected": 2814,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-08-27": {
+          "#": 3,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Ella Mason",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "60:08",
+          "Corrected": 3193,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-09-10": {
+          "#": 4,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Freya Mason",
+          "Laps": 6,
+          "Time": "64:12",
+          "Corrected": 4317,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "wed": {
+        "2022-07-06": {
+          "#": 3,
+          "SailNo": 13204,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Mike Homer",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "55:44",
+          "Corrected": 2959,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-07-20": {
+          "#": 5,
+          "SailNo": 13204,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Mike Homer",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "48:40",
+          "Corrected": 3230,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-07-27": {
+          "#": 8,
+          "SailNo": 13204,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Mike Homer",
+          "Crew": "Freya Mason",
+          "Laps": 2,
+          "Time": "94:06",
+          "Corrected": 4996,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-08-31": {
+          "#": 6,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Freya Mason",
+          "Crew": "Ella Mason",
+          "Laps": 4,
+          "Time": "62:38",
+          "Corrected": 4157,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-09-07": {
+          "#": 1,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Freya Mason",
+          "Laps": 3,
+          "Time": "45:09",
+          "Corrected": 2602,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-09-14": {
+          "#": 2,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "49:19",
+          "Corrected": 2842,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01": {
+          "#": 6,
+          "SailNo": 20361,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "B",
+          "Helm": "Oliver Mason",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "59:33",
+          "Corrected": 3981,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01": {
+          "#": 2,
+          "SailNo": 20361,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "S",
+          "Helm": "Oliver Mason",
+          "Crew": "Freya Mason",
+          "HCP": 1127,
+          "Laps": 4,
+          "Time": "59:33",
+          "Corrected": 3532,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2023-04-01": {
+          "#": 8,
+          "SailNo": 20361,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "B",
+          "Helm": "Oliver Mason",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "60:36",
+          "Corrected": 4051,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-01": {
+          "#": 3,
+          "SailNo": 20361,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "S",
+          "Helm": "Oliver Mason",
+          "Crew": "Freya Mason",
+          "HCP": 1127,
+          "Laps": 4,
+          "Time": "60:36",
+          "Corrected": 3594,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

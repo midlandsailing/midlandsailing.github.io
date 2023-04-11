@@ -1,0 +1,72 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08.": {
+          "#": 4,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Ota Dvorak",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "57:37",
+          "Corrected": 3027,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08.": {
+          "#": 23,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "--",
+          "Helm": "Ota Dvorak",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 26
+        }
+      },
+      "sat-late": {
+        "2023-04-08.": {
+          "#": 6,
+          "SailNo": 3643,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Ota Dvorak",
+          "Crew": "Oliver Maclean",
+          "Laps": 4,
+          "Time": "58:09",
+          "Corrected": 3560,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08.": {
+          "#": 15,
+          "SailNo": 3643,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "--",
+          "Helm": "Ota Dvorak",
+          "Crew": "Oliver Maclean",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 22
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "2023": {
+    "winter": {
+      "sat-early": {
+        "2023-01-28": {
+          "#": 2,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Jenny Chen-Androni",
+          "Laps": 3,
+          "Time": "48:54",
+          "Corrected": 2994,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-28": {
+          "#": 4,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Jenny Chen-Androni",
+          "HCP": 1045,
+          "Laps": 3,
+          "Time": "48:54",
+          "Corrected": 2994,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

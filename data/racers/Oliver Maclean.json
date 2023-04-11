@@ -1,0 +1,406 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-12-10": {
+          "#": 3,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "58:17",
+          "Corrected": 3828,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-12-31": {
+          "#": 9,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": 3,
+          "Time": "72:17",
+          "Corrected": 4142,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-early-hcp": {
+        "2022-12-10": {
+          "#": 5,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "HCP": 1008,
+          "Laps": 4,
+          "Time": "58:17",
+          "Corrected": 3828,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-12-31": {
+          "#": 10,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "HCP": 1008,
+          "Laps": 3,
+          "Time": "72:17",
+          "Corrected": 4142,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-12-10": {
+          "#": 3,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "61:07",
+          "Corrected": 3211,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-12-31": {
+          "#": 10,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNF",
+          "Pts": 11
+        }
+      },
+      "sat-late-hcp": {
+        "2022-12-10": {
+          "#": 4,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "HCP": 1008,
+          "Laps": 3,
+          "Time": "61:07",
+          "Corrected": 3211,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-12-31": {
+          "#": 10,
+          "SailNo": 1663,
+          "Class": "RS200",
+          "PY": 1047,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "HCP": 1008,
+          "Laps": "",
+          "Time": "",
+          "Corrected": 999998,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-06-25": {
+          "#": 2,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Oliver Maclean",
+          "Laps": 4,
+          "Time": "50:49",
+          "Corrected": 2929,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-06-25": {
+          "#": 2,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Oliver Maclean",
+          "Laps": 4,
+          "Time": "57:49",
+          "Corrected": 3332,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "wed": {
+        "2022-05-18": {
+          "#": 3,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "60:42",
+          "Corrected": 4252,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-06-29": {
+          "#": 1,
+          "SailNo": 4315,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "51:11",
+          "Corrected": 3586,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-09": {
+          "#": 1,
+          "SailNo": 13176,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "53:50",
+          "Corrected": 2858,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-07-23": {
+          "#": 2,
+          "SailNo": 13204,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Mike Homer",
+          "Crew": "Oliver Maclean",
+          "Laps": 3,
+          "Time": "47:43",
+          "Corrected": 3378,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-09": {
+          "#": 5,
+          "SailNo": 13176,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "HCP": 1017,
+          "Laps": 4,
+          "Time": "53:50",
+          "Corrected": 2858,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-07-23": {
+          "#": 2,
+          "SailNo": 13204,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Mike Homer",
+          "Crew": "Oliver Maclean",
+          "HCP": 1107,
+          "Laps": 3,
+          "Time": "47:43",
+          "Corrected": 3051,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-07-09": {
+          "#": 2,
+          "SailNo": 13176,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "Freya Mason",
+          "Laps": 4,
+          "Time": "53:00",
+          "Corrected": 2814,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-07-23": {
+          "#": 2,
+          "SailNo": 13204,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Mike Homer",
+          "Crew": "Oliver Maclean",
+          "Laps": 4,
+          "Time": "62:06",
+          "Corrected": 4122,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "wed": {
+        "2022-07-06": {
+          "#": 2,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "56:15",
+          "Corrected": 2955,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-07-20": {
+          "#": 1,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "52:18",
+          "Corrected": 2748,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-08": {
+          "#": 4,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "62:44",
+          "Corrected": 3296,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08": {
+          "#": 1,
+          "SailNo": 4315,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "53:42",
+          "Corrected": 2821,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08": {
+          "#": 6,
+          "SailNo": 4315,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Oliver Maclean",
+          "Crew": "",
+          "HCP": 1010,
+          "Laps": 3,
+          "Time": "53:42",
+          "Corrected": 2821,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-04-08": {
+          "#": 6,
+          "SailNo": 3643,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Ota Dvorak",
+          "Crew": "Oliver Maclean",
+          "Laps": 4,
+          "Time": "58:09",
+          "Corrected": 3560,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08": {
+          "#": 15,
+          "SailNo": 3643,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "--",
+          "Helm": "Ota Dvorak",
+          "Crew": "Oliver Maclean",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 22
+        }
+      }
+    }
+  }
+}

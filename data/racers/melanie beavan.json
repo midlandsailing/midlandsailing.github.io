@@ -1,0 +1,118 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-01.": {
+          "#": 4,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Beavan",
+          "Laps": 4,
+          "Time": "51:30",
+          "Corrected": 3941,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-01.": {
+          "#": 3,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Beavan",
+          "HCP": 1249,
+          "Laps": 4,
+          "Time": "51:30",
+          "Corrected": 3155,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late": {
+        "2022-10-01.": {
+          "#": 5,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Beavan",
+          "Laps": 4,
+          "Time": "56:24",
+          "Corrected": 5180,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-01.": {
+          "#": 5,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Beavan",
+          "HCP": 1249,
+          "Laps": 4,
+          "Time": "56:24",
+          "Corrected": 4147,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "summer": {
+      "wed": {
+        "2022-07-06.": {
+          "#": 1,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Melanie Beavan",
+          "Laps": 4,
+          "Time": "54:42",
+          "Corrected": 2925,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-08-03.": {
+          "#": 1,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Melanie Beavan",
+          "Laps": 4,
+          "Time": "57:05",
+          "Corrected": 3053,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-09-28.": {
+          "#": 12,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Beavan",
+          "Laps": 3,
+          "Time": "53:08",
+          "Corrected": 4337,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      }
+    }
+  }
+}

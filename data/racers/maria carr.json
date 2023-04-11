@@ -1,0 +1,39 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01.": {
+          "#": 12,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "Maria Carr",
+          "Laps": 3,
+          "Time": "50:45",
+          "Corrected": 4491,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01.": {
+          "#": 4,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "Maria Carr",
+          "HCP": 1252,
+          "Laps": 3,
+          "Time": "50:45",
+          "Corrected": 3587,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 414,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "55:24",
+      "Corrected": 3427,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 186067,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Mike Homer",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "63:15",
+      "Corrected": 3450,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 22629,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "S",
+      "Helm": "Trevor Pearson",
+      "Crew": "Stephen Nicholson",
+      "Laps": 3,
+      "Time": "51:08",
+      "Corrected": 3646,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 5051,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Stuart Jones",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "55:47",
+      "Corrected": 3908,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Sunita Williams",
+      "Laps": 4,
+      "Time": "64:11",
+      "Corrected": 3930,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 119,
+      "Class": "WindSurf Board",
+      "PY": 1300,
+      "Fleet": "G",
+      "Helm": "Kevin Hopkins",
+      "Crew": "",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "RET",
+      "Pts": 7
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-22": {
+          "#": 10,
+          "SailNo": 172283,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Rob Thorpe",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "49:59",
+          "Corrected": 3635,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-22": {
+          "#": 14,
+          "SailNo": 172283,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "--",
+          "Helm": "Rob Thorpe",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 15
+        }
+      },
+      "sat-late": {
+        "2022-10-22": {
+          "#": 11,
+          "SailNo": 172283,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Rob Thorpe",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:18",
+          "Corrected": 3440,
+          "&nbsp;": "",
+          "Pts": 11
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-22": {
+          "#": 15,
+          "SailNo": 172283,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "--",
+          "Helm": "Rob Thorpe",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 16
+        }
+      }
+    }
+  }
+}

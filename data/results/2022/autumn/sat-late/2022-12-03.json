@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 209010,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "G",
+      "Helm": "Lazaros Andronis",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "44:21",
+      "Corrected": 2320,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 186067,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Mike Homer",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "44:35",
+      "Corrected": 2432,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 5051,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "48:54",
+      "Corrected": 2569,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 101372,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "B",
+      "Helm": "John Couperthwaite",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "49:60",
+      "Corrected": 2616,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 4348,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "S",
+      "Helm": "Lawrence Bowbanks",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "49:49",
+      "Corrected": 2617,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Laura",
+      "Laps": 4,
+      "Time": "47:55",
+      "Corrected": 2934,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": 77637,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Jason Larner",
+      "Crew": "",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "RET",
+      "Pts": 8
+    }
+  ]
+}

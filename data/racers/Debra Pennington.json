@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "303-s": {
+        "1": {
+          "#": 5,
+          "SailNo": 3224,
+          "Helm": "Debra Pennington",
+          "Club": "Notts County SC",
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2": {
+          "#": 4,
+          "SailNo": 3224,
+          "Helm": "Debra Pennington",
+          "Club": "Notts County SC",
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "3": {
+          "#": 4,
+          "SailNo": 3224,
+          "Helm": "Debra Pennington",
+          "Club": "Notts County SC",
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-11-26.": {
+          "#": 9,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mel Beaven",
+          "Laps": 4,
+          "Time": "49:44",
+          "Corrected": 3806,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-early-hcp": {
+        "2022-11-26.": {
+          "#": 3,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mel Beaven",
+          "HCP": 1249,
+          "Laps": 4,
+          "Time": "49:44",
+          "Corrected": 3047,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-11-26.": {
+          "#": 7,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mel Beaven",
+          "Laps": 4,
+          "Time": "48:42",
+          "Corrected": 2982,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2022-11-26.": {
+          "#": 3,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mel Beaven",
+          "HCP": 1249,
+          "Laps": 4,
+          "Time": "48:42",
+          "Corrected": 2388,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    }
+  }
+}

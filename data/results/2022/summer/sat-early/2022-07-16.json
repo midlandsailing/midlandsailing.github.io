@@ -1,0 +1,75 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 414,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "60:14",
+      "Corrected": 3726,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 3674,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "S",
+      "Helm": "Mike Anslow",
+      "Crew": "Dave Biddle",
+      "Laps": 3,
+      "Time": "63:41",
+      "Corrected": 3899,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 22901,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "G",
+      "Helm": "Paul Young",
+      "Crew": "Jan Kimber",
+      "Laps": 2,
+      "Time": "50:17",
+      "Corrected": 4033,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 4348,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "S",
+      "Helm": "Lawrence Bowbanks",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "63:11",
+      "Corrected": 4979,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 3614,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Barry Johnson",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "68:24",
+      "Corrected": 5391,
+      "&nbsp;": "",
+      "Pts": 5
+    }
+  ]
+}

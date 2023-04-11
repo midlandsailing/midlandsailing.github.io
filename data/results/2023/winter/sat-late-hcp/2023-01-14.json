@@ -1,0 +1,80 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 4092,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "S",
+      "Helm": "Nathan McGrory",
+      "Crew": "",
+      "HCP": 1150,
+      "Laps": 4,
+      "Time": "53:46",
+      "Corrected": 3070,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "HCP": 1134,
+      "Laps": 4,
+      "Time": "53:51",
+      "Corrected": 3238,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "G",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "HCP": 1089,
+      "Laps": 5,
+      "Time": "55:45",
+      "Corrected": 3332,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 4,
+      "SailNo": 22901,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "G",
+      "Helm": "Paul Young",
+      "Crew": "Jan Kimber",
+      "HCP": 1064,
+      "Laps": 5,
+      "Time": "1:03:40",
+      "Corrected": 3405,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 5,
+      "SailNo": 3518,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "--",
+      "Helm": "Tim Harms",
+      "Crew": "George Bender",
+      "HCP": "",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "DNC",
+      "Pts": 6
+    }
+  ]
+}

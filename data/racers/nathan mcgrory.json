@@ -1,0 +1,317 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-22.": {
+          "#": 8,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "50:29",
+          "Corrected": 3536,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-22.": {
+          "#": 3,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "HCP": 1159,
+          "Laps": 3,
+          "Time": "50:29",
+          "Corrected": 3051,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2022-10-22.": {
+          "#": 9,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "46:57",
+          "Corrected": 3289,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-22.": {
+          "#": 1,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "HCP": 1159,
+          "Laps": 3,
+          "Time": "46:57",
+          "Corrected": 2838,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-28.": {
+          "#": 11,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "44:54",
+          "Corrected": 3539,
+          "&nbsp;": "",
+          "Pts": 11
+        },
+        "2022-06-25.": {
+          "#": 6,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "53:01",
+          "Corrected": 3714,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late": {
+        "2022-06-25.": {
+          "#": 5,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:26",
+          "Corrected": 3673,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-08-13.": {
+          "#": 4,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Nathan McGrory",
+          "Laps": 3,
+          "Time": "48:59",
+          "Corrected": 3999,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-13.": {
+          "#": 8,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Nathan McGrory",
+          "HCP": 1046,
+          "Laps": 3,
+          "Time": "48:59",
+          "Corrected": 3999,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-08.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Nathan McGrory",
+          "Laps": 4,
+          "Time": "61:35",
+          "Corrected": 3293,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2022-01-08.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Nathan McGrory",
+          "Laps": 2,
+          "Time": "52:59",
+          "Corrected": 2833,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    }
+  },
+  "2023": {
+    "winter": {
+      "sat-early": {
+        "2023-01-14.": {
+          "#": 3,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "49:41",
+          "Corrected": 3263,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-03-11.": {
+          "#": 4,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Nathan McGrory",
+          "Laps": 3,
+          "Time": "53:03",
+          "Corrected": 3783,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-14.": {
+          "#": 1,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "HCP": 1150,
+          "Laps": 4,
+          "Time": "49:41",
+          "Corrected": 2837,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2023-03-11.": {
+          "#": 11,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Nathan McGrory",
+          "HCP": 1064,
+          "Laps": 3,
+          "Time": "53:03",
+          "Corrected": 3783,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-01-14.": {
+          "#": 3,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "53:46",
+          "Corrected": 3531,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-03-11.": {
+          "#": 9,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Nathan McGrory",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 10
+        }
+      },
+      "sat-late-hcp": {
+        "2023-01-14.": {
+          "#": 1,
+          "SailNo": 4092,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Nathan McGrory",
+          "Crew": "",
+          "HCP": 1150,
+          "Laps": 4,
+          "Time": "53:46",
+          "Corrected": 3070,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2023-03-11.": {
+          "#": 9,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Nathan McGrory",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "",
+          "Corrected": 999998,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

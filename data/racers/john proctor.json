@@ -1,0 +1,39 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-11-12.": {
+          "#": 5,
+          "SailNo": 3640,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Jenny Chen-Andronis",
+          "Crew": "John Proctor",
+          "Laps": 5,
+          "Time": "58:30",
+          "Corrected": 4298,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-11-12.": {
+          "#": 6,
+          "SailNo": 3640,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Jenny Chen-Andronis",
+          "Crew": "John Proctor",
+          "HCP": 1133,
+          "Laps": 5,
+          "Time": "58:30",
+          "Corrected": 3793,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

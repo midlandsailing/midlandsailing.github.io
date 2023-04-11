@@ -1,0 +1,44 @@
+{
+  "2022": {
+    "special": {
+      "laser": {
+        "1.": {
+          "#": 1,
+          "SailNo": 213608,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Helm": "George Fereday",
+          "Club": "Earlswood Lakes",
+          "Time": "57:34",
+          "Corrected": 3011,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2.": {
+          "#": 1,
+          "SailNo": 213608,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Helm": "George Fereday",
+          "Club": "Earlswood Lakes",
+          "Time": "47:59",
+          "Corrected": 2510,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "3.": {
+          "#": 1,
+          "SailNo": 213608,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Helm": "George Fereday",
+          "Club": "Earlswood Lakes",
+          "Time": "61:22",
+          "Corrected": 3210,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

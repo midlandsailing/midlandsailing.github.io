@@ -1,0 +1,39 @@
+{
+  "2022": {
+    "summer": {
+      "sat-early": {
+        "2022-09-10": {
+          "#": 14,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Orson Gee",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "55:46",
+          "Corrected": 4376,
+          "&nbsp;": "",
+          "Pts": 14
+        }
+      },
+      "sat-early-hcp": {
+        "2022-09-10": {
+          "#": 16,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Orson Gee",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 18
+        }
+      }
+    }
+  }
+}

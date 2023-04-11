@@ -1,0 +1,403 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-11-19": {
+          "#": 7,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 2,
+          "Time": "64:50",
+          "Corrected": 3969,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2022-11-19": {
+          "#": 4,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "HCP": 1142,
+          "Laps": 2,
+          "Time": "64:50",
+          "Corrected": 3475,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2022-11-19": {
+          "#": 4,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 4,
+          "Time": "58:40",
+          "Corrected": 3592,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late-hcp": {
+        "2022-11-19": {
+          "#": 1,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "HCP": 1142,
+          "Laps": 4,
+          "Time": "58:40",
+          "Corrected": 3145,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-07": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "63:14",
+          "Corrected": 3871,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-05-14": {
+          "#": 7,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "61:37",
+          "Corrected": 3772,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-05-28": {
+          "#": 8,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "53:46",
+          "Corrected": 3292,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-late": {
+        "2022-05-07": {
+          "#": 4,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 6,
+          "Time": "56:25",
+          "Corrected": 3454,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-05-14": {
+          "#": 6,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 2,
+          "Time": "49:03",
+          "Corrected": 4505,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-05-28": {
+          "#": 8,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "47:36",
+          "Corrected": 2914,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "wed": {
+        "2022-04-27": {
+          "#": 6,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "46:48",
+          "Corrected": 2865,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-09": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 4,
+          "Time": "50:39",
+          "Corrected": 3101,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-07-16": {
+          "#": 2,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "63:41",
+          "Corrected": 3899,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-07-23": {
+          "#": 7,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "45:28",
+          "Corrected": 3712,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-09-03": {
+          "#": 7,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Mina Wardakhan",
+          "Laps": 4,
+          "Time": "52:41",
+          "Corrected": 4032,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-09-10": {
+          "#": 7,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 3,
+          "Time": "63:34",
+          "Corrected": 3892,
+          "&nbsp;": "",
+          "Pts": 7.5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-09": {
+          "#": 2,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "HCP": 1142,
+          "Laps": 4,
+          "Time": "50:39",
+          "Corrected": 2715,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-07-16": {
+          "#": 2,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "HCP": 1142,
+          "Laps": 3,
+          "Time": "63:41",
+          "Corrected": 3414,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-07-23": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "HCP": 1142,
+          "Laps": 3,
+          "Time": "45:28",
+          "Corrected": 3250,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-09-03": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Mina Wardakhan",
+          "HCP": 1142,
+          "Laps": 4,
+          "Time": "52:41",
+          "Corrected": 3531,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-09-10": {
+          "#": 4,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "HCP": 1142,
+          "Laps": 3,
+          "Time": "63:34",
+          "Corrected": 3408,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2022-07-09": {
+          "#": 7,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 4,
+          "Time": "60:07",
+          "Corrected": 3681,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-09-03": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Mina Wardakhan",
+          "Laps": 5,
+          "Time": "56:02",
+          "Corrected": 4117,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-09-10": {
+          "#": 9,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 6,
+          "Time": "64:35",
+          "Corrected": 4613,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "wed": {
+        "2022-07-06": {
+          "#": 10,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Conrad Riggs",
+          "Laps": 4,
+          "Time": "54:38",
+          "Corrected": 3345,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-08-03": {
+          "#": 5,
+          "SailNo": 3674,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Mike Anslow",
+          "Crew": "Dave Biddle",
+          "Laps": 4,
+          "Time": "51:28",
+          "Corrected": 3151,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

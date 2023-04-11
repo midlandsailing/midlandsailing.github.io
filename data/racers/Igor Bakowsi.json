@@ -1,0 +1,39 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-01": {
+          "#": 5,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Igor Bakowsi",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "49:20",
+          "Corrected": 4301,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-01": {
+          "#": 7,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Igor Bakowsi",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 8
+        }
+      }
+    }
+  }
+}

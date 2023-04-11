@@ -1,0 +1,408 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-08.": {
+          "#": 8,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "Laps": 4,
+          "Time": "59:09",
+          "Corrected": 3926,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-11-19.": {
+          "#": 6,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "Laps": 2,
+          "Time": "73:39",
+          "Corrected": 3911,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-08.": {
+          "#": 7,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "HCP": 1184,
+          "Laps": 4,
+          "Time": "59:09",
+          "Corrected": 3316,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-11-19.": {
+          "#": 1,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "HCP": 1184,
+          "Laps": 2,
+          "Time": "73:39",
+          "Corrected": 3303,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late": {
+        "2022-10-08.": {
+          "#": 10,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "Laps": 4,
+          "Time": "61:13",
+          "Corrected": 4063,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-11-19.": {
+          "#": 7,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "Laps": 3,
+          "Time": "53:57",
+          "Corrected": 3819,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-08.": {
+          "#": 4,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Conrad Riggs",
+          "HCP": 1184,
+          "Laps": 4,
+          "Time": "61:13",
+          "Corrected": 3432,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-11-19.": {
+          "#": 3,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "HCP": 1184,
+          "Laps": 3,
+          "Time": "53:57",
+          "Corrected": 3226,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-14.": {
+          "#": 10,
+          "SailNo": "o",
+          "Class": "Kittiwake",
+          "PY": 1600,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "40:09",
+          "Corrected": 4517,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "wed": {
+        "2022-06-01.": {
+          "#": 6,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Douglas Bridger",
+          "Laps": 3,
+          "Time": "1:06:34",
+          "Corrected": 4076,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-06-29.": {
+          "#": 12,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Andy Mudie",
+          "Crew": "Douglas Bridger",
+          "Laps": 3,
+          "Time": "64:18",
+          "Corrected": 4552,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      }
+    },
+    "summer": {
+      "sat-late": {
+        "2022-08-27.": {
+          "#": 6,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Arthur Bedford",
+          "Crew": "Douglas Bridger",
+          "Laps": 3,
+          "Time": "46:48",
+          "Corrected": 3313,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "wed": {
+        "2022-08-24.": {
+          "#": 8,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "50:51",
+          "Corrected": 4160,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08.": {
+          "#": 21,
+          "SailNo": 13769,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Dan Barrett",
+          "Laps": 3,
+          "Time": "65:27",
+          "Corrected": 3475,
+          "&nbsp;": "",
+          "Pts": 19
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08.": {
+          "#": 11,
+          "SailNo": 13769,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Dan Barrett",
+          "HCP": 1185,
+          "Laps": 3,
+          "Time": "65:27",
+          "Corrected": 2932,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-late": {
+        "2023-04-08.": {
+          "#": 18,
+          "SailNo": 13769,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Dan Barrett",
+          "Crew": "Douglas Bridger",
+          "Laps": 3,
+          "Time": "56:16",
+          "Corrected": 3983,
+          "&nbsp;": "",
+          "Pts": 15
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08.": {
+          "#": 5,
+          "SailNo": 13769,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Dan Barrett",
+          "Crew": "Douglas Bridger",
+          "HCP": 1191,
+          "Laps": 3,
+          "Time": "56:16",
+          "Corrected": 3344,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-01-28.": {
+          "#": 8,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Ilana Davis",
+          "Laps": 2,
+          "Time": "43:59",
+          "Corrected": 3503,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2023-03-04.": {
+          "#": 16,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 17
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-28.": {
+          "#": 3,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Ilana Davis",
+          "HCP": 1184,
+          "Laps": 2,
+          "Time": "43:59",
+          "Corrected": 2959,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2023-03-04.": {
+          "#": 15,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "",
+          "HCP": 1184,
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 15
+        }
+      },
+      "sat-late": {
+        "2023-01-28.": {
+          "#": 4,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Ilana Davis",
+          "Laps": 2,
+          "Time": "66:50",
+          "Corrected": 3549,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2023-03-04.": {
+          "#": 11,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "57:03",
+          "Corrected": 3029,
+          "&nbsp;": "",
+          "Pts": 11
+        }
+      },
+      "sat-late-hcp": {
+        "2023-01-28.": {
+          "#": 3,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Ilana Davis",
+          "HCP": 1184,
+          "Laps": 2,
+          "Time": "66:50",
+          "Corrected": 2997,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2023-03-04.": {
+          "#": 7,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "",
+          "HCP": 1184,
+          "Laps": 2,
+          "Time": "57:03",
+          "Corrected": 2558,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

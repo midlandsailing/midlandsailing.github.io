@@ -1,0 +1,44 @@
+{
+  "2022": {
+    "special": {
+      "laser": {
+        "1.": {
+          "#": 3,
+          "SailNo": 219662,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "John Ling",
+          "Club": "Bartley SC",
+          "Time": "57:00",
+          "Corrected": 3109,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2.": {
+          "#": 2,
+          "SailNo": 219662,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "John Ling",
+          "Club": "Bartley SC",
+          "Time": "47:15",
+          "Corrected": 2577,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "3.": {
+          "#": 2,
+          "SailNo": 219662,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "John Ling",
+          "Club": "Bartley SC",
+          "Time": "59:17",
+          "Corrected": 3234,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    }
+  }
+}

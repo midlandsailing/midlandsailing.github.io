@@ -1,0 +1,72 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08": {
+          "#": 6,
+          "SailNo": 209010,
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Jenny Chen",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "58:42",
+          "Corrected": 3071,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08": {
+          "#": 21,
+          "SailNo": 209010,
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Jenny Chen",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 26
+        }
+      },
+      "sat-late": {
+        "2023-04-08": {
+          "#": 14,
+          "SailNo": 209019,
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Jenny Chen",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "54:42",
+          "Corrected": 3815,
+          "&nbsp;": "",
+          "Pts": 11
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08": {
+          "#": 18,
+          "SailNo": 209019,
+          "Class": "Laser Radial",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Jenny Chen",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 22
+        }
+      }
+    }
+  }
+}

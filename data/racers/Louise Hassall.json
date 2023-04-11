@@ -1,0 +1,123 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-08": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Louise Hassall",
+          "Laps": 4,
+          "Time": "50:04",
+          "Corrected": 3347,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-08": {
+          "#": 8,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Louise Hassall",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "50:04",
+          "Corrected": 3347,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-10-08": {
+          "#": 7,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Louise Hassall",
+          "Laps": 4,
+          "Time": "57:28",
+          "Corrected": 3841,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-08": {
+          "#": 11,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Louise Hassall",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "57:28",
+          "Corrected": 3841,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-09-03": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Louise Hassall",
+          "Laps": 4,
+          "Time": "52:58",
+          "Corrected": 3541,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-early-hcp": {
+        "2022-09-03": {
+          "#": 6,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Louise Hassall",
+          "HCP": 1058,
+          "Laps": 4,
+          "Time": "52:58",
+          "Corrected": 3541,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "wed": {
+        "2022-08-10": {
+          "#": 1,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Louise Hassall",
+          "Laps": 4,
+          "Time": 5643,
+          "Corrected": 5029,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

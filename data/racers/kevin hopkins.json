@@ -1,0 +1,840 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-12-31.": {
+          "#": 7,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "52:46",
+          "Corrected": 3799,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2022-12-31.": {
+          "#": 8,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 2,
+          "Time": "52:46",
+          "Corrected": 3799,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-12-31.": {
+          "#": 8,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "51:47",
+          "Corrected": 3728,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-late-hcp": {
+        "2022-12-31.": {
+          "#": 9,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 2,
+          "Time": "51:47",
+          "Corrected": 3728,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-28.": {
+          "#": 10,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "47:27",
+          "Corrected": 3416,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-06-04.": {
+          "#": 2,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:19",
+          "Corrected": 3028,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-05-28.": {
+          "#": 5,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "57:44",
+          "Corrected": 2771,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-06-04.": {
+          "#": 3,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "60:52",
+          "Corrected": 3652,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "wed": {
+        "2022-06-01.": {
+          "#": 4,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "55:38",
+          "Corrected": 4006,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-06-08.": {
+          "#": 5,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "67:58",
+          "Corrected": 4078,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-02.": {
+          "#": 6,
+          "SailNo": 119,
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "51:46",
+          "Corrected": 3584,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-07-09.": {
+          "#": 11,
+          "SailNo": "",
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNF",
+          "Pts": 12
+        },
+        "2022-07-30.": {
+          "#": 6,
+          "SailNo": 119,
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "41:24",
+          "Corrected": 3822,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-02.": {
+          "#": 7,
+          "SailNo": 119,
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 2,
+          "Time": "51:46",
+          "Corrected": 3584,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-07-09.": {
+          "#": 10,
+          "SailNo": "",
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": "",
+          "Time": "",
+          "Corrected": 999998,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-07-30.": {
+          "#": 7,
+          "SailNo": 119,
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 2,
+          "Time": "41:24",
+          "Corrected": 3822,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-07-09.": {
+          "#": 9,
+          "SailNo": "",
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNF",
+          "Pts": 10
+        },
+        "2022-07-30.": {
+          "#": 6,
+          "SailNo": 119,
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 7
+        }
+      },
+      "wed": {
+        "2022-07-27.": {
+          "#": 1,
+          "SailNo": "",
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "61:24",
+          "Corrected": 2834,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-01.": {
+          "#": 12,
+          "SailNo": "",
+          "Class": "WindSurf Board",
+          "PY": 1300,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": 3415,
+          "Corrected": 7881,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01.": {
+          "#": 8,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "51:53",
+          "Corrected": 4151,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2023-04-08.": {
+          "#": 15,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "66:21",
+          "Corrected": 3185,
+          "&nbsp;": "",
+          "Pts": 13
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01.": {
+          "#": 13,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1097,
+          "Laps": 3,
+          "Time": "51:53",
+          "Corrected": 4151,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-04-08.": {
+          "#": 18,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1097,
+          "Laps": 3,
+          "Time": "66:21",
+          "Corrected": 3185,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-04-01.": {
+          "#": 11,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:07",
+          "Corrected": 4169,
+          "&nbsp;": "",
+          "Pts": 11
+        },
+        "2023-04-08.": {
+          "#": 8,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "56:38",
+          "Corrected": 3625,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-01.": {
+          "#": 12,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1097,
+          "Laps": 3,
+          "Time": "52:07",
+          "Corrected": 4169,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-04-08.": {
+          "#": 13,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1097,
+          "Laps": 3,
+          "Time": "56:38",
+          "Corrected": 3625,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "wed": {
+        "2023-04-05.": {
+          "#": 6,
+          "SailNo": 138,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "47:47",
+          "Corrected": 3440,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05.": {
+          "#": 13,
+          "SailNo": 138,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1097,
+          "Laps": 2,
+          "Time": "47:47",
+          "Corrected": 3440,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-01-07.": {
+          "#": 3,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "58:39",
+          "Corrected": 2815,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-02-04.": {
+          "#": 2,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "66:03",
+          "Corrected": 3170,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2023-02-11.": {
+          "#": 10,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "51:24",
+          "Corrected": 3701,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2023-02-18.": {
+          "#": 5,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "50:45",
+          "Corrected": 3248,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2023-02-25.": {
+          "#": 9,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "51:04",
+          "Corrected": 4085,
+          "&nbsp;": "",
+          "Pts": 9
+        },
+        "2023-03-25.": {
+          "#": 6,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "49:57",
+          "Corrected": 3197,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-07.": {
+          "#": 7,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 4,
+          "Time": "58:39",
+          "Corrected": 2815,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-04.": {
+          "#": 6,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 3,
+          "Time": "66:03",
+          "Corrected": 3170,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-11.": {
+          "#": 10,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 2,
+          "Time": "51:24",
+          "Corrected": 3701,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-18.": {
+          "#": 8,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 3,
+          "Time": "50:45",
+          "Corrected": 3248,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-25.": {
+          "#": 12,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 3,
+          "Time": "51:04",
+          "Corrected": 4085,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-25.": {
+          "#": 8,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 3,
+          "Time": "49:57",
+          "Corrected": 3197,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-01-07.": {
+          "#": 3,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "34:30",
+          "Corrected": 2484,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-02-04.": {
+          "#": 10,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:15",
+          "Corrected": 4180,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2023-02-11.": {
+          "#": 13,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 14
+        },
+        "2023-02-18.": {
+          "#": 3,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "53:20",
+          "Corrected": 3200,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-02-25.": {
+          "#": 9,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:26",
+          "Corrected": 3356,
+          "&nbsp;": "",
+          "Pts": 9
+        },
+        "2023-03-25.": {
+          "#": 6,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "68:35",
+          "Corrected": 4115,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late-hcp": {
+        "2023-01-07.": {
+          "#": 3,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 2,
+          "Time": "34:30",
+          "Corrected": 2484,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-04.": {
+          "#": 10,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 3,
+          "Time": "52:15",
+          "Corrected": 4180,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-11.": {
+          "#": 13,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": "",
+          "Time": "",
+          "Corrected": 999998,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-18.": {
+          "#": 6,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 4,
+          "Time": "53:20",
+          "Corrected": 3200,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-02-25.": {
+          "#": 12,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 3,
+          "Time": "52:26",
+          "Corrected": 3356,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-25.": {
+          "#": 8,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "G",
+          "Helm": "Kevin Hopkins",
+          "Crew": "",
+          "HCP": 1089,
+          "Laps": 4,
+          "Time": "68:35",
+          "Corrected": 4115,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

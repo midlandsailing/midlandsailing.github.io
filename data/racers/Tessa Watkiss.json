@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "liberty": {
+        "1": {
+          "#": 4,
+          "SailNo": 1010,
+          "Helm": "Tessa Watkiss",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2": {
+          "#": 5,
+          "SailNo": 1010,
+          "Helm": "Tessa Watkiss",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "3": {
+          "#": 4,
+          "SailNo": 1010,
+          "Helm": "Tessa Watkiss",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

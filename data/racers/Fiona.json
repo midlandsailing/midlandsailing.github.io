@@ -1,0 +1,22 @@
+{
+  "2022": {
+    "summer": {
+      "sat-late": {
+        "2022-08-13": {
+          "#": 7,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Fiona",
+          "Laps": 3,
+          "Time": "1:00:36",
+          "Corrected": 6184,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      }
+    }
+  }
+}

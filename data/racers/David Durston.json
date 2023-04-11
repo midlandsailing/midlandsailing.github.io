@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "liberty": {
+        "1": {
+          "#": 1,
+          "SailNo": 3144,
+          "Helm": "David Durston",
+          "Club": "Whitefriars SC",
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2": {
+          "#": 1,
+          "SailNo": 3144,
+          "Helm": "David Durston",
+          "Club": "Whitefriars SC",
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "3": {
+          "#": 2,
+          "SailNo": 3144,
+          "Helm": "David Durston",
+          "Club": "Whitefriars SC",
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    }
+  }
+}

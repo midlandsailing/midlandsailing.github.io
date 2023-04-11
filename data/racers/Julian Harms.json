@@ -1,0 +1,766 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-22": {
+          "#": 11,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Sam Harms",
+          "Laps": 4,
+          "Time": "59:30",
+          "Corrected": 3643,
+          "&nbsp;": "",
+          "Pts": 11
+        },
+        "2022-11-19": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 2,
+          "Time": "63:30",
+          "Corrected": 3888,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-11-26": {
+          "#": 8,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "48:41",
+          "Corrected": 3726,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-12-31": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Andrew Prosser",
+          "Laps": 3,
+          "Time": "59:58",
+          "Corrected": 3671,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-22": {
+          "#": 9,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Sam Harms",
+          "HCP": 1106,
+          "Laps": 4,
+          "Time": "59:30",
+          "Corrected": 3294,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-11-19": {
+          "#": 6,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1106,
+          "Laps": 2,
+          "Time": "63:30",
+          "Corrected": 3515,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-11-26": {
+          "#": 9,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1106,
+          "Laps": 4,
+          "Time": "48:41",
+          "Corrected": 3369,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-12-31": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Andrew Prosser",
+          "HCP": 1106,
+          "Laps": 3,
+          "Time": "59:58",
+          "Corrected": 3319,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2022-10-22": {
+          "#": 12,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Sam Harms",
+          "Laps": 3,
+          "Time": "42:36",
+          "Corrected": 3478,
+          "&nbsp;": "",
+          "Pts": 12
+        },
+        "2022-11-19": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "58:51",
+          "Corrected": 3603,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-11-26": {
+          "#": 6,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "44:11",
+          "Corrected": 2705,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-12-31": {
+          "#": 7,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Andrew Prosser",
+          "Laps": 3,
+          "Time": "58:49",
+          "Corrected": 3601,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-22": {
+          "#": 7,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Sam Harms",
+          "HCP": 1106,
+          "Laps": 3,
+          "Time": "42:36",
+          "Corrected": 3145,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-11-19": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1106,
+          "Laps": 4,
+          "Time": "58:51",
+          "Corrected": 3258,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-11-26": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1106,
+          "Laps": 4,
+          "Time": "44:11",
+          "Corrected": 2446,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-12-31": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Andrew Prosser",
+          "HCP": 1106,
+          "Laps": 3,
+          "Time": "58:49",
+          "Corrected": 3256,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-28": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "50:32",
+          "Corrected": 3094,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-06-11": {
+          "#": 2,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Richard Adams",
+          "Laps": 5,
+          "Time": "55:08",
+          "Corrected": 3376,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-05-07": {
+          "#": 1,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 6,
+          "Time": "51:54",
+          "Corrected": 3178,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-05-28": {
+          "#": 6,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "45:32",
+          "Corrected": 2788,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-06-11": {
+          "#": 1,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Richard Adams",
+          "Laps": 5,
+          "Time": "51:22",
+          "Corrected": 3145,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "wed": {
+        "2022-05-18": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "54:48",
+          "Corrected": 4473,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-05-25": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "47:07",
+          "Corrected": 2885,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-06-08": {
+          "#": 6,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 5,
+          "Time": "67:36",
+          "Corrected": 4139,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-08-13": {
+          "#": 7,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "50:07",
+          "Corrected": 4091,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-09-03": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 5,
+          "Time": "60:21",
+          "Corrected": 3695,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-09-17": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Sam Harms",
+          "Laps": 4,
+          "Time": "53:36",
+          "Corrected": 3282,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-13": {
+          "#": 7,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1100,
+          "Laps": 3,
+          "Time": "50:07",
+          "Corrected": 3719,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-09-03": {
+          "#": 3,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1100,
+          "Laps": 5,
+          "Time": "60:21",
+          "Corrected": 3359,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-09-17": {
+          "#": 8,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Sam Harms",
+          "HCP": 1100,
+          "Laps": 4,
+          "Time": "53:36",
+          "Corrected": 2984,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late": {
+        "2022-08-13": {
+          "#": 2,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 5,
+          "Time": "1:03:23",
+          "Corrected": 3881,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-09-03": {
+          "#": 3,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 6,
+          "Time": "63:30",
+          "Corrected": 3888,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-09-10": {
+          "#": 3,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Sam Harms",
+          "Laps": 6,
+          "Time": "60:02",
+          "Corrected": 4288,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "wed": {
+        "2022-07-27": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 2,
+          "Time": "59:55",
+          "Corrected": 3668,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-08-10": {
+          "#": 2,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": 5314,
+          "Corrected": 5422,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-09-14": {
+          "#": 3,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "48:04",
+          "Corrected": 2943,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-09-28": {
+          "#": 8,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "49:59",
+          "Corrected": 4080,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-01": {
+          "#": 10,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 6,
+          "Time": 4958,
+          "Corrected": 5059,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-late": {
+        "2022-01-01": {
+          "#": 8,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": 4351,
+          "Corrected": 5550,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08": {
+          "#": 16,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "52:22",
+          "Corrected": 3206,
+          "&nbsp;": "",
+          "Pts": 14
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08": {
+          "#": 10,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1113,
+          "Laps": 3,
+          "Time": "52:22",
+          "Corrected": 2881,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-late": {
+        "2023-04-08": {
+          "#": 13,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "61:06",
+          "Corrected": 3741,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08": {
+          "#": 6,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1113,
+          "Laps": 4,
+          "Time": "61:06",
+          "Corrected": 3361,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "wed": {
+        "2023-04-05": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "55:01",
+          "Corrected": 3368,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1113,
+          "Laps": 3,
+          "Time": "55:01",
+          "Corrected": 3026,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-02-25": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Tim Harms",
+          "Laps": 4,
+          "Time": "52:51",
+          "Corrected": 4045,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-25": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Tim Harms",
+          "HCP": 1113,
+          "Laps": 4,
+          "Time": "52:51",
+          "Corrected": 3634,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2023-03-18": {
+          "#": 1,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "Laps": 3,
+          "Time": "59:11",
+          "Corrected": 3623,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late-hcp": {
+        "2023-03-18": {
+          "#": 1,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "George Bender",
+          "HCP": 1113,
+          "Laps": 3,
+          "Time": "59:11",
+          "Corrected": 3255,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

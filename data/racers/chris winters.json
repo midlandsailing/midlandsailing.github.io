@@ -1,0 +1,126 @@
+{
+  "2022": {
+    "special": {
+      "gp14": {
+        "1.": {
+          "#": 2,
+          "SailNo": 13176,
+          "Helm": "Chris Winters",
+          "Crew": "Matthew Edward",
+          "Club": "Midland SC",
+          "Fleet": "gold",
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2.": {
+          "#": 3,
+          "SailNo": 13176,
+          "Helm": "Chris Winters",
+          "Crew": "Matthew Edward",
+          "Club": "Midland SC",
+          "Fleet": "gold",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "3.": {
+          "#": 1,
+          "SailNo": 13176,
+          "Helm": "Chris Winters",
+          "Crew": "Matthew Edward",
+          "Club": "Midland SC",
+          "Fleet": "gold",
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "summer": {
+      "wed": {
+        "2022-08-03.": {
+          "#": 3,
+          "SailNo": 414,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Chris Winters",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "49:30",
+          "Corrected": 3062,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08.": {
+          "#": 12,
+          "SailNo": 414,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Chris Winters",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "51:13",
+          "Corrected": 3168,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08.": {
+          "#": 16,
+          "SailNo": 414,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Chris Winters",
+          "Crew": "",
+          "HCP": 1011,
+          "Laps": 3,
+          "Time": "51:13",
+          "Corrected": 3168,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-04-08.": {
+          "#": 3,
+          "SailNo": 414,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Chris Winters",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "56:10",
+          "Corrected": 3474,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08.": {
+          "#": 9,
+          "SailNo": 414,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Chris Winters",
+          "Crew": "",
+          "HCP": 1011,
+          "Laps": 4,
+          "Time": "56:10",
+          "Corrected": 3474,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,798 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-15.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "58:04",
+          "Corrected": 3881,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-10-29.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 5,
+          "Time": "56:22",
+          "Corrected": 3014,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-11-05.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "49:59",
+          "Corrected": 2673,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-11-26.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "48:25",
+          "Corrected": 3236,
+          "&nbsp;": "",
+          "Pts": 4.5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-15.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "58:04",
+          "Corrected": 3881,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-29.": {
+          "#": 6,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 5,
+          "Time": "56:22",
+          "Corrected": 3014,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-05.": {
+          "#": 6,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "49:59",
+          "Corrected": 2673,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-26.": {
+          "#": 8,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "48:25",
+          "Corrected": 3236,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-10-15.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 5,
+          "Time": "63:58",
+          "Corrected": 4105,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-10-29.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 3,
+          "Time": "51:56",
+          "Corrected": 2777,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-11-05.": {
+          "#": 1,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "50:45",
+          "Corrected": 2714,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-11-26.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "45:19",
+          "Corrected": 2423,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-15.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 5,
+          "Time": "63:58",
+          "Corrected": 4105,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-29.": {
+          "#": 5,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 3,
+          "Time": "51:56",
+          "Corrected": 2777,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-05.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "50:45",
+          "Corrected": 2714,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-26.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "45:19",
+          "Corrected": 2423,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "special": {
+      "enterprise": {
+        "1.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "3.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-06-11.": {
+          "#": 4,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "56:39",
+          "Corrected": 3787,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2022-06-11.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "52:01",
+          "Corrected": 3477,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "wed": {
+        "2022-04-27.": {
+          "#": 4,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Jan Kimber",
+          "Laps": 3,
+          "Time": "44:08",
+          "Corrected": 2702,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-05-25.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "53:52",
+          "Corrected": 2881,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-06-08.": {
+          "#": 1,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "56:44",
+          "Corrected": 3792,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-06-29.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 3,
+          "Time": "51:27",
+          "Corrected": 3668,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-16.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 2,
+          "Time": "50:17",
+          "Corrected": 4033,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-09-17.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "54:32",
+          "Corrected": 2916,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-16.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1058,
+          "Laps": 2,
+          "Time": "50:17",
+          "Corrected": 4033,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-09-17.": {
+          "#": 6,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1058,
+          "Laps": 4,
+          "Time": "54:32",
+          "Corrected": 2916,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-09-17.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "61:36",
+          "Corrected": 3294,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "wed": {
+        "2022-07-20.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 5,
+          "Time": "53:31",
+          "Corrected": 2862,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-07-27.": {
+          "#": 5,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 2,
+          "Time": "72:08",
+          "Corrected": 3857,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-08-17.": {
+          "#": 1,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 3,
+          "Time": "50:03",
+          "Corrected": 3569,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-09-14.": {
+          "#": 6,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "57:30",
+          "Corrected": 3075,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-09-21.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 1,
+          "Time": "69:48",
+          "Corrected": 3733,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-09-28.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 3,
+          "Time": "54:43",
+          "Corrected": 3901,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-01.": {
+          "#": 5,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 5,
+          "Time": 4511,
+          "Corrected": 4825,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late": {
+        "2022-01-01.": {
+          "#": 5,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": 4828,
+          "Corrected": 5379,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08.": {
+          "#": 8,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 3,
+          "Time": "58:01",
+          "Corrected": 3102,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08.": {
+          "#": 15,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 3,
+          "Time": "58:01",
+          "Corrected": 3102,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-04-08.": {
+          "#": 7,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 4,
+          "Time": "67:45",
+          "Corrected": 3623,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08.": {
+          "#": 12,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 4,
+          "Time": "67:45",
+          "Corrected": 3623,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "wed": {
+        "2023-04-05.": {
+          "#": 10,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 2,
+          "Time": "44:20",
+          "Corrected": 3556,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05.": {
+          "#": 15,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 2,
+          "Time": "44:20",
+          "Corrected": 3556,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-01-14.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 5,
+          "Time": "58:20",
+          "Corrected": 3119,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2023-03-04.": {
+          "#": 10,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 3,
+          "Time": "67:08",
+          "Corrected": 3590,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-14.": {
+          "#": 3,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 5,
+          "Time": "58:20",
+          "Corrected": 3119,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-04.": {
+          "#": 12,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 3,
+          "Time": "67:08",
+          "Corrected": 3590,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-01-14.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 5,
+          "Time": "1:03:40",
+          "Corrected": 3405,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2023-03-04.": {
+          "#": 7,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "Laps": 2,
+          "Time": "50:14",
+          "Corrected": 2686,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2023-01-14.": {
+          "#": 4,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 5,
+          "Time": "1:03:40",
+          "Corrected": 3405,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-04.": {
+          "#": 11,
+          "SailNo": 20937,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Jan Kimber",
+          "HCP": 1064,
+          "Laps": 2,
+          "Time": "50:14",
+          "Corrected": 2686,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

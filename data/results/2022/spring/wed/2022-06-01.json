@@ -1,0 +1,89 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 186067,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Mike Homer",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "46:12",
+      "Corrected": 3780,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "1:03:29",
+      "Corrected": 3794,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 4424,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "David Wheeler",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "49:54",
+      "Corrected": 3933,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 134,
+      "Class": "2.4mR",
+      "PY": 1250,
+      "Fleet": "G",
+      "Helm": "Kevin Hopkins",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "55:38",
+      "Corrected": 4006,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 201354,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Phil Deeley",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "49:20",
+      "Corrected": 4036,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Douglas Bridger",
+      "Laps": 3,
+      "Time": "1:06:34",
+      "Corrected": 4076,
+      "&nbsp;": "",
+      "Pts": 6
+    }
+  ]
+}

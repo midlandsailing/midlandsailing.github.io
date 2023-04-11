@@ -1,0 +1,110 @@
+{
+  "header": [
+    "#",
+    "Helm",
+    "Score",
+    {
+      "a": "Race 1",
+      "br": "",
+      "#text": "2023-04-05"
+    }
+  ],
+  "racers": [
+    {
+      "#": "1st",
+      "Helm": "Phil Reeves",
+      "Score": 1,
+      "Race 1": 1
+    },
+    {
+      "#": "2nd",
+      "Helm": "Jason Larner",
+      "Score": 2,
+      "Race 1": 2
+    },
+    {
+      "#": "3rd",
+      "Helm": "Mike Colles",
+      "Score": 3,
+      "Race 1": 3
+    },
+    {
+      "#": "4th",
+      "Helm": "Julian Harms",
+      "Score": 4,
+      "Race 1": 4
+    },
+    {
+      "#": "5th",
+      "Helm": "Ilana Davis",
+      "Score": 5,
+      "Race 1": 5
+    },
+    {
+      "#": "6th",
+      "Helm": "Lawrence Bowbanks",
+      "Score": 6,
+      "Race 1": 6
+    },
+    {
+      "#": "7th",
+      "Helm": "Jan Holland",
+      "Score": 7,
+      "Race 1": 7
+    },
+    {
+      "#": "8th",
+      "Helm": "John Couperthwaite",
+      "Score": 8,
+      "Race 1": 8
+    },
+    {
+      "#": "9th",
+      "Helm": "Kevin Hopkins",
+      "Score": 16,
+      "Race 1": "NOP"
+    },
+    {
+      "#": "10th",
+      "Helm": "Paul Young",
+      "Score": 16,
+      "Race 1": "NOP"
+    },
+    {
+      "#": "11th",
+      "Helm": "Mark McKeever",
+      "Score": 16,
+      "Race 1": "NOP"
+    },
+    {
+      "#": "12th",
+      "Helm": "Rob Kennaugh",
+      "Score": 16,
+      "Race 1": "NOP"
+    },
+    {
+      "#": "13th",
+      "Helm": "Chris Martin",
+      "Score": 16,
+      "Race 1": "NOP"
+    },
+    {
+      "#": "14th",
+      "Helm": "Evan Base",
+      "Score": 16,
+      "Race 1": "NOP"
+    },
+    {
+      "#": "15th",
+      "Helm": "Mike Homer",
+      "Score": 16,
+      "Race 1": "NOP"
+    },
+    {
+      "#": "16th",
+      "Helm": "Igor Bakowski",
+      "Score": 17,
+      "Race 1": "DNC"
+    }
+  ]
+}

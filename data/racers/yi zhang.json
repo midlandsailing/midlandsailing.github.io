@@ -1,0 +1,54 @@
+{
+  "2022": {
+    "spring": {
+      "sat-early": {
+        "2022-05-07.": {
+          "#": 2,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Yi Zhang",
+          "Laps": 3,
+          "Time": "69:02",
+          "Corrected": 3692,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-05-07.": {
+          "#": 5,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Yi Zhang",
+          "Laps": 5,
+          "Time": "54:01",
+          "Corrected": 3466,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "wed": {
+        "2022-05-18.": {
+          "#": 6,
+          "SailNo": 22901,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "G",
+          "Helm": "Paul Young",
+          "Crew": "Yi Zhang",
+          "Laps": 3,
+          "Time": "63:31",
+          "Corrected": 4529,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    }
+  }
+}

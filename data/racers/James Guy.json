@@ -1,0 +1,22 @@
+{
+  "2022": {
+    "spring": {
+      "wed": {
+        "2022-06-08": {
+          "#": 12,
+          "SailNo": 19041,
+          "Class": "Enterprise",
+          "PY": 1122,
+          "Fleet": "B",
+          "Helm": "James Guy",
+          "Crew": "*",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 13
+        }
+      }
+    }
+  }
+}

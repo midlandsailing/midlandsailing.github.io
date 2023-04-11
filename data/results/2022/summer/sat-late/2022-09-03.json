@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 414,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "",
+      "Laps": 6,
+      "Time": "60:46",
+      "Corrected": 3759,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 1969,
+      "Class": "Scorpion",
+      "PY": 1041,
+      "Fleet": "G",
+      "Helm": "Chris Martin",
+      "Crew": "Matthew McLullich",
+      "Laps": 5,
+      "Time": "55:44",
+      "Corrected": 3855,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 3794,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "S",
+      "Helm": "Julian Harms",
+      "Crew": "George Bender",
+      "Laps": 6,
+      "Time": "63:30",
+      "Corrected": 3888,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 164734,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Paul Wolstenholme",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "62:03",
+      "Corrected": 4061,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 3674,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "S",
+      "Helm": "Mike Anslow",
+      "Crew": "Mina Wardakhan",
+      "Laps": 5,
+      "Time": "56:02",
+      "Corrected": 4117,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "58:00",
+      "Corrected": 4159,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": 3643,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Christopher Maclean",
+      "Crew": "Adam Maclean",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "RET",
+      "Pts": 8
+    }
+  ]
+}

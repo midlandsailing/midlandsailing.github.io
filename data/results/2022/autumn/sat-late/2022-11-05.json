@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 22901,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "G",
+      "Helm": "Paul Young",
+      "Crew": "Jan Kimber",
+      "Laps": 4,
+      "Time": "50:45",
+      "Corrected": 2714,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 165490,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Dean Jung",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "51:12",
+      "Corrected": 2793,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 186067,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Mike Homer",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "52:22",
+      "Corrected": 2856,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 5051,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "56:25",
+      "Corrected": 2964,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 172283,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Rob Thorp",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "55:08",
+      "Corrected": 3007,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 133256,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "B",
+      "Helm": "Megan Ward",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "47:09",
+      "Corrected": 3289,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": "",
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "B",
+      "Helm": "Alan Birch",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "49:57",
+      "Corrected": 3484,
+      "&nbsp;": "",
+      "Pts": 7
+    }
+  ]
+}

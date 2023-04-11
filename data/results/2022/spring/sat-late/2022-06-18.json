@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 4315,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "G",
+      "Helm": "Chris Martin",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "60:17",
+      "Corrected": 3801,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 414,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "",
+      "Laps": 6,
+      "Time": "63:12",
+      "Corrected": 3909,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 4348,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "S",
+      "Helm": "Lawrence Bowbanks",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "66:36",
+      "Corrected": 4199,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "64:33",
+      "Corrected": 4225,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 168859,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Maria Hilbert",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "67:30",
+      "Corrected": 4418,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "George Bender",
+      "Laps": 5,
+      "Time": "64:36",
+      "Corrected": 4746,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": 164734,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Paul Wolstenholme",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "60:18",
+      "Corrected": 4934,
+      "&nbsp;": "",
+      "Pts": 7
+    }
+  ]
+}

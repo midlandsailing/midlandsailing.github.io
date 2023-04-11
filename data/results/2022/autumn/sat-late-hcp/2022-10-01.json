@@ -1,0 +1,80 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 209010,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "G",
+      "Helm": "Lazaros Andronis",
+      "Crew": "",
+      "HCP": 1062,
+      "Laps": 5,
+      "Time": "58:07",
+      "Corrected": 3648,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 2,
+      "SailNo": 20361,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "S",
+      "Helm": "Oliver Mason",
+      "Crew": "Ilana Davis",
+      "HCP": 1133,
+      "Laps": 4,
+      "Time": "54:42",
+      "Corrected": 3873,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 3,
+      "SailNo": 3787,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "G",
+      "Helm": "Chris Martin",
+      "Crew": "George Bender",
+      "HCP": 1002,
+      "Laps": 6,
+      "Time": "63:20",
+      "Corrected": 3878,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 4,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "G",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "HCP": 1070,
+      "Laps": 5,
+      "Time": "56:59",
+      "Corrected": 4086,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 5,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Melanie Beavan",
+      "HCP": 1249,
+      "Laps": 4,
+      "Time": "56:24",
+      "Corrected": 4147,
+      "&nbsp;": "",
+      "Pts": 2
+    }
+  ]
+}

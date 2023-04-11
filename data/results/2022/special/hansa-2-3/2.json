@@ -1,0 +1,29 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 2111,
+      "Helm": "Lindsay Burns",
+      "Club": "Frensham Pond Sailability",
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 1576,
+      "Helm": "Khiaan-Paul Schild",
+      "Club": "Midland SC",
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 967,
+      "Helm": "Max Byrne",
+      "Club": "Midland SC",
+      "&nbsp;": "",
+      "Pts": 3
+    }
+  ]
+}

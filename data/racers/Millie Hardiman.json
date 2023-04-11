@@ -1,0 +1,44 @@
+{
+  "2022": {
+    "special": {
+      "laser": {
+        "1": {
+          "#": 6,
+          "SailNo": 212087,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Helm": "Millie Hardiman",
+          "Club": "Bartley SC",
+          "Time": "64:48",
+          "Corrected": 3390,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2": {
+          "#": 5,
+          "SailNo": 212087,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Helm": "Millie Hardiman",
+          "Club": "Bartley SC",
+          "Time": "52:21",
+          "Corrected": 2738,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "3": {
+          "#": 5,
+          "SailNo": 212087,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Helm": "Millie Hardiman",
+          "Club": "Bartley SC",
+          "Time": "66:35",
+          "Corrected": 3483,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

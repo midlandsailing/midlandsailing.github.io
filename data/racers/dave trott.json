@@ -1,0 +1,144 @@
+{
+  "2022": {
+    "special": {
+      "303-s": {
+        "1.": {
+          "#": 6,
+          "SailNo": 1338,
+          "Helm": "Dave Trott",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2.": {
+          "#": 6,
+          "SailNo": 1338,
+          "Helm": "Dave Trott",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "3.": {
+          "#": 6,
+          "SailNo": 1338,
+          "Helm": "Dave Trott",
+          "Club": "Midland SC",
+          "&nbsp;": "RET",
+          "Pts": 7
+        }
+      }
+    },
+    "spring": {
+      "wed": {
+        "2022-06-22.": {
+          "#": 4,
+          "SailNo": 1461,
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "Dave Trott",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "34:56",
+          "Corrected": 3980,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-06-29.": {
+          "#": 14,
+          "SailNo": "",
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "Dave Trott",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 15
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-09.": {
+          "#": 4,
+          "SailNo": 1461,
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "Dave Trott",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "58:48",
+          "Corrected": 2977,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-07-30.": {
+          "#": 7,
+          "SailNo": 1461,
+          "Class": "Hansa 303 (DH)",
+          "PY": 1630,
+          "Fleet": "B",
+          "Helm": "Dave Trott",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "53:51",
+          "Corrected": 3964,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-09.": {
+          "#": 11,
+          "SailNo": 1461,
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "--",
+          "Helm": "Dave Trott",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 12
+        },
+        "2022-07-30.": {
+          "#": 8,
+          "SailNo": 1461,
+          "Class": "Hansa 303 (DH)",
+          "PY": 1630,
+          "Fleet": "--",
+          "Helm": "Dave Trott",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 9
+        }
+      },
+      "wed": {
+        "2022-08-10.": {
+          "#": 6,
+          "SailNo": "",
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "Dave Trott",
+          "Crew": "",
+          "Laps": 2,
+          "Time": 5340,
+          "Corrected": 6759,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    }
+  }
+}

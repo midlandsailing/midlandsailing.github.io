@@ -1,0 +1,47 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "50:16",
+      "Corrected": 3004,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 22901,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "G",
+      "Helm": "Paul Young",
+      "Crew": "Jan Kimber",
+      "Laps": 5,
+      "Time": "58:20",
+      "Corrected": 3119,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 4092,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Nathan McGrory",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "49:41",
+      "Corrected": 3263,
+      "&nbsp;": "",
+      "Pts": 3
+    }
+  ]
+}

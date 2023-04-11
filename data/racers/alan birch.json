@@ -1,0 +1,72 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-11-05.": {
+          "#": 5,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Alan Birch",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "53:57",
+          "Corrected": 2822,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-11-05.": {
+          "#": 9,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Alan Birch",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 11
+        }
+      },
+      "sat-late": {
+        "2022-11-05.": {
+          "#": 7,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Alan Birch",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "49:57",
+          "Corrected": 3484,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2022-11-05.": {
+          "#": 7,
+          "SailNo": "",
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Alan Birch",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 8
+        }
+      }
+    }
+  }
+}

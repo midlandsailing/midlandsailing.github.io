@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 3700,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "Ashanti Lennox",
+      "Laps": 1,
+      "Time": "31:48",
+      "Corrected": 1947,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 186067,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Mike Homer",
+      "Crew": "",
+      "Laps": 1,
+      "Time": "38:47",
+      "Corrected": 2115,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "Laps": 1,
+      "Time": "35:45",
+      "Corrected": 2136,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 4146,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 1,
+      "Time": "49:20",
+      "Corrected": 2592,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 133256,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Megan Ward",
+      "Crew": "",
+      "Laps": 1,
+      "Time": "49:34",
+      "Corrected": 2704,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 13662,
+      "Class": "GP14",
+      "PY": 1130,
+      "Fleet": "S",
+      "Helm": "Arthur Bedford",
+      "Crew": "Stuart Jones",
+      "Laps": 1,
+      "Time": "53:34",
+      "Corrected": 2844,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": 12761,
+      "Class": "GP14",
+      "PY": 1130,
+      "Fleet": "B",
+      "Helm": "Ella Mason",
+      "Crew": "Freya Mason",
+      "Laps": 1,
+      "Time": "53:40",
+      "Corrected": 2850,
+      "&nbsp;": "",
+      "Pts": 7
+    }
+  ]
+}

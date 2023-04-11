@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "liberty": {
+        "1": {
+          "#": 2,
+          "SailNo": 1066,
+          "Helm": "Rick Cassell",
+          "Club": "Rutland Sailability",
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2": {
+          "#": 3,
+          "SailNo": 1066,
+          "Helm": "Rick Cassell",
+          "Club": "Rutland Sailability",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "3": {
+          "#": 5,
+          "SailNo": 1066,
+          "Helm": "Rick Cassell",
+          "Club": "Rutland Sailability",
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "2022": {
+    "summer": {
+      "sat-early": {
+        "2022-09-17": {
+          "#": 11,
+          "SailNo": 640,
+          "Class": "Comet",
+          "PY": 1210,
+          "Fleet": "B",
+          "Helm": "Ben Turner",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "45:19",
+          "Corrected": 4494,
+          "&nbsp;": "",
+          "Pts": 11
+        }
+      },
+      "sat-early-hcp": {
+        "2022-09-17": {
+          "#": 11,
+          "SailNo": 640,
+          "Class": "Comet",
+          "PY": 1210,
+          "Fleet": "--",
+          "Helm": "Ben Turner",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 13
+        }
+      },
+      "sat-late": {
+        "2022-09-17": {
+          "#": 11,
+          "SailNo": 640,
+          "Class": "Comet",
+          "PY": 1210,
+          "Fleet": "B",
+          "Helm": "Ben Turner",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "57:51",
+          "Corrected": 3825,
+          "&nbsp;": "",
+          "Pts": 11
+        }
+      }
+    }
+  }
+}

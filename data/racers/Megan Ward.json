@@ -1,0 +1,759 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-08": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "53:44",
+          "Corrected": 3664,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-11-05": {
+          "#": 7,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "56:19",
+          "Corrected": 2946,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-11-12": {
+          "#": 4,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "64:35",
+          "Corrected": 4054,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-11-19": {
+          "#": 14,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "83:08",
+          "Corrected": 4535,
+          "&nbsp;": "",
+          "Pts": 14
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-08": {
+          "#": 2,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1164,
+          "Laps": 4,
+          "Time": "53:44",
+          "Corrected": 3148,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-11-05": {
+          "#": 3,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1164,
+          "Laps": 4,
+          "Time": "56:19",
+          "Corrected": 2531,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-11-12": {
+          "#": 4,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1164,
+          "Laps": 5,
+          "Time": "64:35",
+          "Corrected": 3483,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-11-19": {
+          "#": 11,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1164,
+          "Laps": 2,
+          "Time": "83:08",
+          "Corrected": 3896,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late": {
+        "2022-10-08": {
+          "#": 8,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "57:15",
+          "Corrected": 3903,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-11-05": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:09",
+          "Corrected": 3289,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-11-12": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "55:25",
+          "Corrected": 4831,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-08": {
+          "#": 3,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1164,
+          "Laps": 4,
+          "Time": "57:15",
+          "Corrected": 3353,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-11-05": {
+          "#": 5,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1164,
+          "Laps": 3,
+          "Time": "47:09",
+          "Corrected": 2826,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-11-12": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1164,
+          "Laps": 3,
+          "Time": "55:25",
+          "Corrected": 4150,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    },
+    "special": {
+      "enterprise": {
+        "1": {
+          "#": 4,
+          "SailNo": 20361,
+          "Helm": "Oliver Mason",
+          "Crew": "Megan Ward",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2": {
+          "#": 4,
+          "SailNo": 20361,
+          "Helm": "Oliver Mason",
+          "Crew": "Megan Ward",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "3": {
+          "#": 5,
+          "SailNo": 20361,
+          "Helm": "Oliver Mason",
+          "Crew": "Megan Ward",
+          "Club": "Midland SC",
+          "&nbsp;": "RET",
+          "Pts": 8
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-07": {
+          "#": 15,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 16
+        }
+      },
+      "sat-late": {
+        "2022-04-30": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "66:19",
+          "Corrected": 3469,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "wed": {
+        "2022-05-25": {
+          "#": 11,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "47:56",
+          "Corrected": 5015,
+          "&nbsp;": "",
+          "Pts": 11
+        },
+        "2022-06-08": {
+          "#": 10,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "69:45",
+          "Corrected": 4756,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-06-22": {
+          "#": 5,
+          "SailNo": 132256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "49:06",
+          "Corrected": 4017,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-06-29": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "56:51",
+          "Corrected": 3965,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-09": {
+          "#": 2,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "53:00",
+          "Corrected": 2891,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-08-27": {
+          "#": 5,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "49:34",
+          "Corrected": 2704,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-09-10": {
+          "#": 3,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "65:09",
+          "Corrected": 3554,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-09-17": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:57",
+          "Corrected": 3344,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-09": {
+          "#": 1,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1179,
+          "Laps": 4,
+          "Time": "53:00",
+          "Corrected": 2452,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-08-27": {
+          "#": 4,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1179,
+          "Laps": 1,
+          "Time": "49:34",
+          "Corrected": 2293,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-09-10": {
+          "#": 1,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1179,
+          "Laps": 3,
+          "Time": "65:09",
+          "Corrected": 3014,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-09-17": {
+          "#": 4,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1179,
+          "Laps": 3,
+          "Time": "47:57",
+          "Corrected": 2836,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2022-08-06": {
+          "#": 3,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "64:07",
+          "Corrected": 3497,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-08-27": {
+          "#": 5,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "59:55",
+          "Corrected": 3268,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-09-10": {
+          "#": 7,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "58:52",
+          "Corrected": 4495,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-09-17": {
+          "#": 7,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "50:37",
+          "Corrected": 3530,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "wed": {
+        "2022-07-06": {
+          "#": 12,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNF",
+          "Pts": 13
+        },
+        "2022-07-27": {
+          "#": 11,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNF",
+          "Pts": 14
+        },
+        "2022-08-03": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:05",
+          "Corrected": 3284,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-08-10": {
+          "#": 5,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": 4936,
+          "Corrected": 5983,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-08-17": {
+          "#": 4,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:16",
+          "Corrected": 3801,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-09-14": {
+          "#": 7,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "45:03",
+          "Corrected": 3142,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-09-21": {
+          "#": 12,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "82:22",
+          "Corrected": 4493,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-15": {
+          "#": 9,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "46:50",
+          "Corrected": 3832,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-late": {
+        "2022-01-15": {
+          "#": 4,
+          "SailNo": 133256,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:39",
+          "Corrected": 3829,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01": {
+          "#": 11,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "50:15",
+          "Corrected": 4381,
+          "&nbsp;": "",
+          "Pts": 11
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01": {
+          "#": 6,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1158,
+          "Laps": 3,
+          "Time": "50:15",
+          "Corrected": 3783,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2023-04-01": {
+          "#": 7,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "61:52",
+          "Corrected": 4045,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-01": {
+          "#": 2,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1158,
+          "Laps": 4,
+          "Time": "61:52",
+          "Corrected": 3493,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-03-11": {
+          "#": 10,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "57:01",
+          "Corrected": 3977,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-early-hcp": {
+        "2023-03-11": {
+          "#": 4,
+          "SailNo": 133256,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "S",
+          "Helm": "Megan Ward",
+          "Crew": "",
+          "HCP": 1154,
+          "Laps": 3,
+          "Time": "57:01",
+          "Corrected": 3446,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

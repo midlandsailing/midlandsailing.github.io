@@ -1,0 +1,38 @@
+{
+  "2022": {
+    "special": {
+      "gp14": {
+        "1": {
+          "#": 5,
+          "SailNo": 12170,
+          "Helm": "Lesley Freeman",
+          "Crew": "Nick Harrison",
+          "Club": "Trimpley SC",
+          "Fleet": "bronze",
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2": {
+          "#": 6,
+          "SailNo": 12170,
+          "Helm": "Lesley Freeman",
+          "Crew": "Nick Harrison",
+          "Club": "Trimpley SC",
+          "Fleet": "bronze",
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "3": {
+          "#": 5,
+          "SailNo": 12170,
+          "Helm": "Lesley Freeman",
+          "Crew": "Nick Harrison",
+          "Club": "Trimpley SC",
+          "Fleet": "bronze",
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  }
+}

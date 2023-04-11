@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "liberty": {
+        "1": {
+          "#": 5,
+          "SailNo": 2599,
+          "Helm": "Chris Emmett",
+          "Club": "Rutland Sailability",
+          "&nbsp;": "DNS",
+          "Pts": 6
+        },
+        "2": {
+          "#": 4,
+          "SailNo": 2599,
+          "Helm": "Chris Emmett",
+          "Club": "Rutland Sailability",
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "3": {
+          "#": 3,
+          "SailNo": 2599,
+          "Helm": "Chris Emmett",
+          "Club": "Rutland Sailability",
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

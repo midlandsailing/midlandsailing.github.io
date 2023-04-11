@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "hansa-2-3": {
+        "1.": {
+          "#": 3,
+          "SailNo": 967,
+          "Helm": "Max Byrne",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2.": {
+          "#": 3,
+          "SailNo": 967,
+          "Helm": "Max Byrne",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "3.": {
+          "#": 3,
+          "SailNo": 967,
+          "Helm": "Max Byrne",
+          "Club": "Midland SC",
+          "&nbsp;": "DNF",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

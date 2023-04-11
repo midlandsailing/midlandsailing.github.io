@@ -1,0 +1,392 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-11-19": {
+          "#": 6,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "Laps": 2,
+          "Time": "73:39",
+          "Corrected": 3911,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-early-hcp": {
+        "2022-11-19": {
+          "#": 1,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "HCP": 1184,
+          "Laps": 2,
+          "Time": "73:39",
+          "Corrected": 3303,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late": {
+        "2022-10-08": {
+          "#": 5,
+          "SailNo": 4366,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "57:40",
+          "Corrected": 3787,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-11-19": {
+          "#": 7,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "Laps": 3,
+          "Time": "53:57",
+          "Corrected": 3819,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-08": {
+          "#": 1,
+          "SailNo": 4366,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "HCP": 1255,
+          "Laps": 4,
+          "Time": "57:40",
+          "Corrected": 3018,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-11-19": {
+          "#": 3,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Douglas Bridger",
+          "Crew": "Phil Reeves",
+          "HCP": 1184,
+          "Laps": 3,
+          "Time": "53:57",
+          "Corrected": 3226,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "special": {
+      "laser": {
+        "1": {
+          "#": 11,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Phil Reeves",
+          "Club": "Midland SC",
+          "Time": "66:40",
+          "Corrected": 3636,
+          "&nbsp;": "",
+          "Pts": 11
+        },
+        "2": {
+          "#": 8,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Phil Reeves",
+          "Club": "Midland SC",
+          "Time": "52:57",
+          "Corrected": 2888,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "3": {
+          "#": 8,
+          "SailNo": 77637,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Phil Reeves",
+          "Club": "Midland SC",
+          "Time": "66:10",
+          "Corrected": 3609,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-06-25": {
+          "#": 5,
+          "SailNo": 5051,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "51:49",
+          "Corrected": 3630,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late": {
+        "2022-06-25": {
+          "#": 3,
+          "SailNo": 5051,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "50:36",
+          "Corrected": 3545,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "wed": {
+        "2022-05-18": {
+          "#": 8,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "Stuart Jones",
+          "Laps": 3,
+          "Time": "65:52",
+          "Corrected": 4663,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-02": {
+          "#": 7,
+          "SailNo": 2802,
+          "Class": "Laser 2000",
+          "PY": 1050,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "?",
+          "Laps": 2,
+          "Time": "42:33",
+          "Corrected": 3647,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-02": {
+          "#": 6,
+          "SailNo": 2802,
+          "Class": "Laser 2000",
+          "PY": 1050,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "?",
+          "HCP": 1272,
+          "Laps": 2,
+          "Time": "42:33",
+          "Corrected": 2867,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-late": {
+        "2022-07-02": {
+          "#": 1,
+          "SailNo": 1274,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "54:29",
+          "Corrected": 3256,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "wed": {
+        "2022-07-06": {
+          "#": 5,
+          "SailNo": 5051,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "60:27",
+          "Corrected": 3176,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01": {
+          "#": 12,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "Maria Carr",
+          "Laps": 3,
+          "Time": "50:45",
+          "Corrected": 4491,
+          "&nbsp;": "",
+          "Pts": 12
+        },
+        "2023-04-08": {
+          "#": 10,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "Verity Rose",
+          "Laps": 3,
+          "Time": "58:54",
+          "Corrected": 3127,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01": {
+          "#": 4,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "Maria Carr",
+          "HCP": 1252,
+          "Laps": 3,
+          "Time": "50:45",
+          "Corrected": 3587,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-04-08": {
+          "#": 1,
+          "SailNo": 12761,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "Verity Rose",
+          "HCP": 1252,
+          "Laps": 3,
+          "Time": "58:54",
+          "Corrected": 2498,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "wed": {
+        "2023-04-05": {
+          "#": 7,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "48:56",
+          "Corrected": 3523,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05": {
+          "#": 1,
+          "SailNo": 134,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "",
+          "HCP": 1252,
+          "Laps": 2,
+          "Time": "48:56",
+          "Corrected": 2814,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-02-18": {
+          "#": 7,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "Jemima",
+          "Laps": 3,
+          "Time": "50:40",
+          "Corrected": 3587,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-18": {
+          "#": 1,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "Jemima",
+          "HCP": 1255,
+          "Laps": 3,
+          "Time": "50:40",
+          "Corrected": 2858,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

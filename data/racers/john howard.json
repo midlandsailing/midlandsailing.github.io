@@ -1,0 +1,64 @@
+{
+  "2022": {
+    "spring": {
+      "sat-early": {
+        "2022-04-30.": {
+          "#": 8,
+          "SailNo": 792,
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "John Howard",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "60:36",
+          "Corrected": 3452,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-05-07.": {
+          "#": 12,
+          "SailNo": 303,
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "John Howard",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "43:08",
+          "Corrected": 4914,
+          "&nbsp;": "",
+          "Pts": 12
+        },
+        "2022-05-21.": {
+          "#": 9,
+          "SailNo": 792,
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "John Howard",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "61:48",
+          "Corrected": 4694,
+          "&nbsp;": "",
+          "Pts": 9
+        },
+        "2022-05-28.": {
+          "#": 14,
+          "SailNo": 792,
+          "Class": "Hansa 303 (SH)",
+          "PY": 1580,
+          "Fleet": "B",
+          "Helm": "John Howard",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 16
+        }
+      }
+    }
+  }
+}

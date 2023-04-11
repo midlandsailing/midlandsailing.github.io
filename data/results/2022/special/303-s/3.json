@@ -1,0 +1,53 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 3219,
+      "Helm": "Rory McKinna",
+      "Club": "Clyde Cruising Club",
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 3223,
+      "Helm": "Mike Everitt",
+      "Club": "Frensham Pond Sailability",
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 2967,
+      "Helm": "James Woosnam",
+      "Club": "Frensham Pond Sailability",
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 3224,
+      "Helm": "Debra Pennington",
+      "Club": "Notts County SC",
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 3220,
+      "Helm": "Hannah Nicoll",
+      "Club": "Whitefriars SC",
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 1338,
+      "Helm": "Dave Trott",
+      "Club": "Midland SC",
+      "&nbsp;": "RET",
+      "Pts": 7
+    }
+  ]
+}

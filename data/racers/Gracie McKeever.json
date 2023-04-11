@@ -1,0 +1,515 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-22": {
+          "#": 5,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 4,
+          "Time": "54:36",
+          "Corrected": 3343,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-11-19": {
+          "#": 13,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "Laps": 2,
+          "Time": "73:12",
+          "Corrected": 4482,
+          "&nbsp;": "",
+          "Pts": 13
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-22": {
+          "#": 11,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "HCP": 1046,
+          "Laps": 4,
+          "Time": "54:36",
+          "Corrected": 3343,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-19": {
+          "#": 13,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "HCP": 1070,
+          "Laps": 2,
+          "Time": "73:12",
+          "Corrected": 4482,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-10-22": {
+          "#": 4,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 4,
+          "Time": "52:20",
+          "Corrected": 3204,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-11-19": {
+          "#": 9,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "Laps": 4,
+          "Time": "64:30",
+          "Corrected": 3949,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-22": {
+          "#": 10,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "HCP": 1046,
+          "Laps": 4,
+          "Time": "52:20",
+          "Corrected": 3204,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-19": {
+          "#": 11,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "HCP": 1070,
+          "Laps": 4,
+          "Time": "64:30",
+          "Corrected": 3949,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-04-30": {
+          "#": 2,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "47:47",
+          "Corrected": 2926,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-05-14": {
+          "#": 6,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "57:32",
+          "Corrected": 3522,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late": {
+        "2022-04-30": {
+          "#": 2,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 4,
+          "Time": "52:27",
+          "Corrected": 3211,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-05-14": {
+          "#": 1,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "62:33",
+          "Corrected": 3830,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "wed": {
+        "2022-05-04": {
+          "#": 3,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 5,
+          "Time": "59:35",
+          "Corrected": 3648,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-06-22": {
+          "#": 1,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "57:41",
+          "Corrected": 3532,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "summer": {
+      "wed": {
+        "2022-07-20": {
+          "#": 4,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 5,
+          "Time": "51:03",
+          "Corrected": 3126,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-08-17": {
+          "#": 11,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 12
+        },
+        "2022-08-24": {
+          "#": 3,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "56:17",
+          "Corrected": 3446,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-01": {
+          "#": 9,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 6,
+          "Time": 4942,
+          "Corrected": 5043,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01": {
+          "#": 3,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 4,
+          "Time": "49:41",
+          "Corrected": 3802,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2023-04-08": {
+          "#": 13,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "51:54",
+          "Corrected": 3178,
+          "&nbsp;": "",
+          "Pts": 11
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01": {
+          "#": 7,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "HCP": 1042,
+          "Laps": 4,
+          "Time": "49:41",
+          "Corrected": 3802,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-04-08": {
+          "#": 17,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "HCP": 1070,
+          "Laps": 3,
+          "Time": "51:54",
+          "Corrected": 3178,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-04-01": {
+          "#": 2,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 5,
+          "Time": "62:33",
+          "Corrected": 3830,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2023-04-08": {
+          "#": 4,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "Laps": 4,
+          "Time": "57:15",
+          "Corrected": 3505,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-01": {
+          "#": 6,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "HCP": 1042,
+          "Laps": 5,
+          "Time": "62:33",
+          "Corrected": 3830,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-04-08": {
+          "#": 10,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Evan Base",
+          "Crew": "Gracie McKeever",
+          "HCP": 1070,
+          "Laps": 4,
+          "Time": "57:15",
+          "Corrected": 3505,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "wed": {
+        "2023-04-05": {
+          "#": 9,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "57:51",
+          "Corrected": 3542,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05": {
+          "#": 14,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "HCP": 1042,
+          "Laps": 3,
+          "Time": "57:51",
+          "Corrected": 3542,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-03-04": {
+          "#": 2,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 3,
+          "Time": "52:01",
+          "Corrected": 3185,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-early-hcp": {
+        "2023-03-04": {
+          "#": 4,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "HCP": 1045,
+          "Laps": 3,
+          "Time": "52:01",
+          "Corrected": 3185,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-03-04": {
+          "#": 1,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "Laps": 2,
+          "Time": "40:44",
+          "Corrected": 2494,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late-hcp": {
+        "2023-03-04": {
+          "#": 5,
+          "SailNo": 3670,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Mark McKeever",
+          "Crew": "Gracie McKeever",
+          "HCP": 1045,
+          "Laps": 2,
+          "Time": "40:44",
+          "Corrected": 2494,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

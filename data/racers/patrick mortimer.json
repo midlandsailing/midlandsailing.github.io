@@ -1,0 +1,39 @@
+{
+  "2023": {
+    "winter": {
+      "sat-early": {
+        "2023-02-25.": {
+          "#": 15,
+          "SailNo": 0,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "B",
+          "Helm": "Patrick Mortimer",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 16
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-25.": {
+          "#": 15,
+          "SailNo": 0,
+          "Class": "ILCA 6",
+          "PY": 1147,
+          "Fleet": "--",
+          "Helm": "Patrick Mortimer",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 16
+        }
+      }
+    }
+  }
+}

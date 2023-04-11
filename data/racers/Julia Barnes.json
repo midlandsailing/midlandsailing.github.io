@@ -1,0 +1,72 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08": {
+          "#": 9,
+          "SailNo": 3643,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Calum Bell",
+          "Crew": "Julia Barnes",
+          "Laps": 3,
+          "Time": "51:03",
+          "Corrected": 3126,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08": {
+          "#": 22,
+          "SailNo": 3643,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "--",
+          "Helm": "Calum Bell",
+          "Crew": "Julia Barnes",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 26
+        }
+      },
+      "sat-late": {
+        "2023-04-08": {
+          "#": 11,
+          "SailNo": 4315,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Julia Barnes",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:47",
+          "Corrected": 3698,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08": {
+          "#": 19,
+          "SailNo": 4315,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "--",
+          "Helm": "Julia Barnes",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 22
+        }
+      }
+    }
+  }
+}

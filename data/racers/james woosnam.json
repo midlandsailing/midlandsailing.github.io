@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "303-s": {
+        "1.": {
+          "#": 3,
+          "SailNo": 2967,
+          "Helm": "James Woosnam",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2.": {
+          "#": 2,
+          "SailNo": 2967,
+          "Helm": "James Woosnam",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "3.": {
+          "#": 3,
+          "SailNo": 2967,
+          "Helm": "James Woosnam",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

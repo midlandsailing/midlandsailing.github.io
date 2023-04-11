@@ -1,0 +1,89 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 4315,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "G",
+      "Helm": "Chris Martin",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "58:58",
+      "Corrected": 3098,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 414,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "51:46",
+      "Corrected": 3202,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 4736,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "G",
+      "Helm": "Oliver Maclean",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "61:07",
+      "Corrected": 3211,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 5051,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "42:31",
+      "Corrected": 3351,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "George Bender",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "56:51",
+      "Corrected": 3397,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 3640,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "S",
+      "Helm": "Jenny Chen-Andronis",
+      "Crew": "Ilana Davis",
+      "Laps": 3,
+      "Time": "60:00",
+      "Corrected": 3673,
+      "&nbsp;": "",
+      "Pts": 6
+    }
+  ]
+}

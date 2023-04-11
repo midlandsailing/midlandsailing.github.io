@@ -1,0 +1,198 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-01": {
+          "#": 14,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "52:13",
+          "Corrected": 4629,
+          "&nbsp;": "",
+          "Pts": 14
+        },
+        "2023-04-08": {
+          "#": 20,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "64:44",
+          "Corrected": 3443,
+          "&nbsp;": "",
+          "Pts": 18
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-01": {
+          "#": 12,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "HCP": 1119,
+          "Laps": 3,
+          "Time": "52:13",
+          "Corrected": 4137,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2023-04-08": {
+          "#": 13,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "HCP": 1119,
+          "Laps": 3,
+          "Time": "64:44",
+          "Corrected": 3077,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-late": {
+        "2023-04-08": {
+          "#": 17,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "54:47",
+          "Corrected": 3885,
+          "&nbsp;": "",
+          "Pts": 14
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08": {
+          "#": 8,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "HCP": 1119,
+          "Laps": 3,
+          "Time": "54:47",
+          "Corrected": 3472,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-02-11": {
+          "#": 12,
+          "SailNo": 1904,
+          "Class": "Other",
+          "PY": 1000,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 13
+        },
+        "2023-03-04": {
+          "#": 13,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "50:12",
+          "Corrected": 4005,
+          "&nbsp;": "",
+          "Pts": 13
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-11": {
+          "#": 11,
+          "SailNo": 1904,
+          "Class": "Other",
+          "PY": 1000,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "HCP": 1110,
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 12
+        },
+        "2023-03-04": {
+          "#": 13,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "HCP": 1110,
+          "Laps": 2,
+          "Time": "50:12",
+          "Corrected": 3608,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late": {
+        "2023-03-04": {
+          "#": 10,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "56:36",
+          "Corrected": 3011,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      },
+      "sat-late-hcp": {
+        "2023-03-04": {
+          "#": 12,
+          "SailNo": 1904,
+          "Class": "Streaker",
+          "PY": 1128,
+          "Fleet": "S",
+          "Helm": "Chris Skelcher",
+          "Crew": "",
+          "HCP": 1110,
+          "Laps": 2,
+          "Time": "56:36",
+          "Corrected": 2713,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    }
+  }
+}

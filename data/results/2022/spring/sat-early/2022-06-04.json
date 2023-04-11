@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 209010,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "G",
+      "Helm": "Lazaros Andronis",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "49:55",
+      "Corrected": 2611,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 134,
+      "Class": "2.4mR",
+      "PY": 1250,
+      "Fleet": "G",
+      "Helm": "Kevin Hopkins",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "47:19",
+      "Corrected": 3028,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "57:13",
+      "Corrected": 3121,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 172283,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Rob Thorp",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "46:58",
+      "Corrected": 3416,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 82560,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "John Couperthwaite",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "47:08",
+      "Corrected": 3428,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Mina Wardakhan",
+      "Laps": 4,
+      "Time": "57:27",
+      "Corrected": 3517,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "RET",
+      "Pts": 8
+    }
+  ]
+}

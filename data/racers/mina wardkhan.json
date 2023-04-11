@@ -1,0 +1,72 @@
+{
+  "2023": {
+    "winter": {
+      "sat-early": {
+        "2023-02-18.": {
+          "#": 8,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mina Wardkhan",
+          "Laps": 3,
+          "Time": "44:52",
+          "Corrected": 3663,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-18.": {
+          "#": 4,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mina Wardkhan",
+          "HCP": 1271,
+          "Laps": 3,
+          "Time": "44:52",
+          "Corrected": 2882,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2023-02-18.": {
+          "#": 7,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mina Wardkhan",
+          "Laps": 4,
+          "Time": "50:25",
+          "Corrected": 3858,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2023-02-18.": {
+          "#": 5,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Mina Wardkhan",
+          "HCP": 1271,
+          "Laps": 4,
+          "Time": "50:25",
+          "Corrected": 3035,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

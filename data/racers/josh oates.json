@@ -1,0 +1,39 @@
+{
+  "2023": {
+    "spring": {
+      "wed": {
+        "2023-04-05.": {
+          "#": 2,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Josh Oates",
+          "Laps": 3,
+          "Time": "57:54",
+          "Corrected": 3337,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "wed-hcp": {
+        "2023-04-05.": {
+          "#": 9,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Josh Oates",
+          "HCP": 1009,
+          "Laps": 3,
+          "Time": "57:54",
+          "Corrected": 3337,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

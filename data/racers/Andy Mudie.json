@@ -1,0 +1,22 @@
+{
+  "2022": {
+    "spring": {
+      "wed": {
+        "2022-06-29": {
+          "#": 12,
+          "SailNo": 13789,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Andy Mudie",
+          "Crew": "Douglas Bridger",
+          "Laps": 3,
+          "Time": "64:18",
+          "Corrected": 4552,
+          "&nbsp;": "",
+          "Pts": 12
+        }
+      }
+    }
+  }
+}

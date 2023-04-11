@@ -1,0 +1,101 @@
+{
+  "2022": {
+    "spring": {
+      "wed": {
+        "2022-05-04": {
+          "#": 1,
+          "SailNo": 4315,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Samuel Bailey",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "52:41",
+          "Corrected": 3460,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-05-18": {
+          "#": 2,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Samuel Bailey",
+          "Laps": 3,
+          "Time": "55:02",
+          "Corrected": 4229,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-05-25": {
+          "#": 1,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Samuel Bailey",
+          "Laps": 4,
+          "Time": "48:09",
+          "Corrected": 2775,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-08-20": {
+          "#": 1,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Samuel Bailey",
+          "Laps": 5,
+          "Time": "60:35",
+          "Corrected": 3492,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-20": {
+          "#": 4,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Samuel Bailey",
+          "HCP": 1003,
+          "Laps": 5,
+          "Time": "60:35",
+          "Corrected": 3492,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-08-20": {
+          "#": 1,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Samuel Bailey",
+          "Laps": 5,
+          "Time": "59:57",
+          "Corrected": 3455,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

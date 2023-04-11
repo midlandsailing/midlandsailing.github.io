@@ -1,0 +1,89 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "S",
+      "Helm": "Phil Reeves",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "54:29",
+      "Corrected": 3256,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 13662,
+      "Class": "GP14",
+      "PY": 1130,
+      "Fleet": "S",
+      "Helm": "Arthur Bedford",
+      "Crew": "Stuart Jones",
+      "Laps": 2,
+      "Time": "41:35",
+      "Corrected": 3312,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 3640,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "S",
+      "Helm": "Jenny Chen-Andronis",
+      "Crew": "Ilana Davis",
+      "Laps": 3,
+      "Time": "54:42",
+      "Corrected": 3349,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 164734,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Paul Wolstenholme",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "43:21",
+      "Corrected": 3547,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "DNF",
+      "Pts": 7
+    },
+    {
+      "#": 6,
+      "SailNo": 4218,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Stephen Nicholson",
+      "Crew": "",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "DNF",
+      "Pts": 7
+    }
+  ]
+}

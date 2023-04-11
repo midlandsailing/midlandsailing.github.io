@@ -1,0 +1,39 @@
+{
+  "2023": {
+    "winter": {
+      "sat-early": {
+        "2023-02-18.": {
+          "#": 7,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "S",
+          "Helm": "Phil Reeves",
+          "Crew": "Jemima",
+          "Laps": 3,
+          "Time": "50:40",
+          "Corrected": 3587,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-18.": {
+          "#": 1,
+          "SailNo": 13662,
+          "Class": "GP14",
+          "PY": 1130,
+          "Fleet": "B",
+          "Helm": "Phil Reeves",
+          "Crew": "Jemima",
+          "HCP": 1255,
+          "Laps": 3,
+          "Time": "50:40",
+          "Corrected": 2858,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

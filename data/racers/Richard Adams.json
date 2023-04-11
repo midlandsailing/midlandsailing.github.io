@@ -1,0 +1,578 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-08": {
+          "#": 1,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "51:24",
+          "Corrected": 3179,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-10-22": {
+          "#": 4,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "54:16",
+          "Corrected": 3322,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2022-10-29": {
+          "#": 1,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "54:11",
+          "Corrected": 2847,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-11-12": {
+          "#": 1,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 6,
+          "Time": "55:32",
+          "Corrected": 3435,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-11-26": {
+          "#": 1,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "45:41",
+          "Corrected": 3000,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-12-31": {
+          "#": 2,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "Jason Larner",
+          "Laps": 3,
+          "Time": "55:04",
+          "Corrected": 3371,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-08": {
+          "#": 3,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 5,
+          "Time": "51:24",
+          "Corrected": 3179,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-22": {
+          "#": 10,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "George Bender",
+          "HCP": 1007,
+          "Laps": 4,
+          "Time": "54:16",
+          "Corrected": 3322,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-29": {
+          "#": 2,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 5,
+          "Time": "54:11",
+          "Corrected": 2847,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-12": {
+          "#": 1,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 6,
+          "Time": "55:32",
+          "Corrected": 3435,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-26": {
+          "#": 2,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 4,
+          "Time": "45:41",
+          "Corrected": 3000,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-12-31": {
+          "#": 5,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "Jason Larner",
+          "HCP": 1007,
+          "Laps": 3,
+          "Time": "55:04",
+          "Corrected": 3371,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-10-08": {
+          "#": 2,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "56:31",
+          "Corrected": 3496,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-10-22": {
+          "#": 3,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "George Bender",
+          "Laps": 4,
+          "Time": "52:07",
+          "Corrected": 3191,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-10-29": {
+          "#": 1,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "47:23",
+          "Corrected": 2489,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-11-12": {
+          "#": 1,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "59:45",
+          "Corrected": 3696,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-11-26": {
+          "#": 1,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "42:41",
+          "Corrected": 2243,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-12-31": {
+          "#": 1,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "Jason Larner",
+          "Laps": 3,
+          "Time": "52:43",
+          "Corrected": 3228,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-08": {
+          "#": 6,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 5,
+          "Time": "56:31",
+          "Corrected": 3496,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-22": {
+          "#": 9,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "George Bender",
+          "HCP": 1007,
+          "Laps": 4,
+          "Time": "52:07",
+          "Corrected": 3191,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-10-29": {
+          "#": 2,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 3,
+          "Time": "47:23",
+          "Corrected": 2489,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-12": {
+          "#": 1,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 5,
+          "Time": "59:45",
+          "Corrected": 3696,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-11-26": {
+          "#": 1,
+          "SailNo": 5610,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 4,
+          "Time": "42:41",
+          "Corrected": 2243,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-12-31": {
+          "#": 4,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "Jason Larner",
+          "HCP": 1007,
+          "Laps": 3,
+          "Time": "52:43",
+          "Corrected": 3228,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "special": {
+      "enterprise": {
+        "1": {
+          "#": 7,
+          "SailNo": "",
+          "Helm": "Richard Adams",
+          "Crew": "Charlotte Adams",
+          "Club": "Midland SC",
+          "&nbsp;": "RET",
+          "Pts": 8
+        },
+        "2": {
+          "#": 7,
+          "SailNo": "",
+          "Helm": "Richard Adams",
+          "Crew": "Charlotte Adams",
+          "Club": "Midland SC",
+          "&nbsp;": "DNC",
+          "Pts": 8
+        },
+        "3": {
+          "#": 6,
+          "SailNo": "",
+          "Helm": "Richard Adams",
+          "Crew": "Charlotte Adams",
+          "Club": "Midland SC",
+          "&nbsp;": "DNC",
+          "Pts": 8
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-06-11": {
+          "#": 2,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Richard Adams",
+          "Laps": 5,
+          "Time": "55:08",
+          "Corrected": 3376,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-06-11": {
+          "#": 1,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Richard Adams",
+          "Laps": 5,
+          "Time": "51:22",
+          "Corrected": 3145,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "summer": {
+      "wed": {
+        "2022-07-27": {
+          "#": 2,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "57:15",
+          "Corrected": 3541,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-01": {
+          "#": 2,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 6,
+          "Time": 4551,
+          "Corrected": 4692,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late": {
+        "2022-01-01": {
+          "#": 1,
+          "SailNo": 507,
+          "Class": "RS300",
+          "PY": 970,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 5,
+          "Time": 4857,
+          "Corrected": 5007,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  },
+  "2023": {
+    "winter": {
+      "sat-early": {
+        "2023-01-21": {
+          "#": 1,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "49:32",
+          "Corrected": 2960,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2023-03-04": {
+          "#": 1,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "Jason Larner",
+          "Laps": 3,
+          "Time": "50:25",
+          "Corrected": 3087,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-early-hcp": {
+        "2023-01-21": {
+          "#": 2,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 4,
+          "Time": "49:32",
+          "Corrected": 2960,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2023-03-04": {
+          "#": 3,
+          "SailNo": 3765,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "Jason Larner",
+          "HCP": 1007,
+          "Laps": 3,
+          "Time": "50:25",
+          "Corrected": 3087,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2023-01-21": {
+          "#": 2,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "48:36",
+          "Corrected": 2904,
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      },
+      "sat-late-hcp": {
+        "2023-01-21": {
+          "#": 4,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "G",
+          "Helm": "Richard Adams",
+          "Crew": "",
+          "HCP": 1007,
+          "Laps": 4,
+          "Time": "48:36",
+          "Corrected": 2904,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  }
+}

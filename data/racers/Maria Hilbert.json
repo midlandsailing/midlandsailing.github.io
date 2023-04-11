@@ -1,0 +1,157 @@
+{
+  "2022": {
+    "special": {
+      "laser": {
+        "1": {
+          "#": 8,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Maria Hilbert",
+          "Club": "Midland SC",
+          "Time": "63:45",
+          "Corrected": 3477,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2": {
+          "#": 10,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Maria Hilbert",
+          "Club": "Midland SC",
+          "Time": "52:59",
+          "Corrected": 2890,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "3": {
+          "#": 9,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Maria Hilbert",
+          "Club": "Midland SC",
+          "Time": "66:40",
+          "Corrected": 3636,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      }
+    },
+    "spring": {
+      "sat-early": {
+        "2022-05-07": {
+          "#": 14,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Maria Hilbert",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "54:39",
+          "Corrected": 8943,
+          "&nbsp;": "",
+          "Pts": 14
+        },
+        "2022-06-18": {
+          "#": 3,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Maria Hilbert",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "48:05",
+          "Corrected": 3934,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2022-05-07": {
+          "#": 8,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Maria Hilbert",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "54:45",
+          "Corrected": 3584,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-06-18": {
+          "#": 5,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Maria Hilbert",
+          "Crew": "",
+          "Laps": 5,
+          "Time": "67:30",
+          "Corrected": 4418,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-09-17": {
+          "#": 9,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Maria Hilbert",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "49:11",
+          "Corrected": 3577,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-early-hcp": {
+        "2022-09-17": {
+          "#": 9,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "S",
+          "Helm": "Maria Hilbert",
+          "Crew": "",
+          "HCP": 1156,
+          "Laps": 3,
+          "Time": "49:11",
+          "Corrected": 3094,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late": {
+        "2022-09-17": {
+          "#": 6,
+          "SailNo": 168859,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Fleet": "B",
+          "Helm": "Maria Hilbert",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "48:21",
+          "Corrected": 3516,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      }
+    }
+  }
+}

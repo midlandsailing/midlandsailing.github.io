@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "303-s": {
+        "1": {
+          "#": 2,
+          "SailNo": 3223,
+          "Helm": "Mike Everitt",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2": {
+          "#": 3,
+          "SailNo": 3223,
+          "Helm": "Mike Everitt",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "3": {
+          "#": 2,
+          "SailNo": 3223,
+          "Helm": "Mike Everitt",
+          "Club": "Frensham Pond Sailability",
+          "&nbsp;": "",
+          "Pts": 2
+        }
+      }
+    }
+  }
+}

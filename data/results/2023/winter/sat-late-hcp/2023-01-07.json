@@ -1,0 +1,65 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "HCP": 1134,
+      "Laps": 3,
+      "Time": "44:10",
+      "Corrected": 2124,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 209010,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "G",
+      "Helm": "Lazaros Andronis",
+      "Crew": "",
+      "HCP": 1078,
+      "Laps": 3,
+      "Time": "43:14",
+      "Corrected": 2262,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 3,
+      "SailNo": 134,
+      "Class": "2.4mR",
+      "PY": 1250,
+      "Fleet": "G",
+      "Helm": "Kevin Hopkins",
+      "Crew": "",
+      "HCP": 1089,
+      "Laps": 2,
+      "Time": "34:30",
+      "Corrected": 2484,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 4,
+      "SailNo": 4736,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "S",
+      "Helm": "Adam Maclean",
+      "Crew": "",
+      "HCP": 1106,
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "RET",
+      "Pts": 4
+    }
+  ]
+}

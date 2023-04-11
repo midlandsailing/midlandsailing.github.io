@@ -1,0 +1,80 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "HCP": 1133,
+      "Laps": 5,
+      "Time": "65:21",
+      "Corrected": 3775,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 3700,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "Andrew Prosser",
+      "HCP": 1006,
+      "Laps": 6,
+      "Time": "63:43",
+      "Corrected": 3901,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 3,
+      "SailNo": 150112,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "G",
+      "Helm": "Matthew McLullich",
+      "Crew": "",
+      "HCP": 1083,
+      "Laps": 5,
+      "Time": "62:17",
+      "Corrected": 3910,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 4,
+      "SailNo": 22901,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "G",
+      "Helm": "Paul Young",
+      "Crew": "Jan Kimber",
+      "HCP": 1064,
+      "Laps": 5,
+      "Time": "63:58",
+      "Corrected": 4105,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    },
+    {
+      "#": 5,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "G",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "HCP": 1070,
+      "Laps": 5,
+      "Time": "58:08",
+      "Corrected": 4169,
+      "&nbsp;": "NOP",
+      "Pts": "--"
+    }
+  ]
+}

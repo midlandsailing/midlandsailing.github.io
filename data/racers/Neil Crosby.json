@@ -1,0 +1,44 @@
+{
+  "2022": {
+    "special": {
+      "laser": {
+        "1": {
+          "#": 4,
+          "SailNo": 208674,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Neil Crosby",
+          "Club": "Bowmoor SC",
+          "Time": "58:29",
+          "Corrected": 3190,
+          "&nbsp;": "",
+          "Pts": 4
+        },
+        "2": {
+          "#": 3,
+          "SailNo": 208674,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Neil Crosby",
+          "Club": "Bowmoor SC",
+          "Time": "48:07",
+          "Corrected": 2625,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "3": {
+          "#": 3,
+          "SailNo": 208674,
+          "Class": "ILCA 7",
+          "PY": 1100,
+          "Helm": "Neil Crosby",
+          "Club": "Bowmoor SC",
+          "Time": "60:05",
+          "Corrected": 3277,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

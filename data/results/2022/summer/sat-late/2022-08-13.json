@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 414,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "1:00:22",
+      "Corrected": 3734,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 3794,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "S",
+      "Helm": "Julian Harms",
+      "Crew": "George Bender",
+      "Laps": 5,
+      "Time": "1:03:23",
+      "Corrected": 3881,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 4348,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "S",
+      "Helm": "Lawrence Bowbanks",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "1:01:20",
+      "Corrected": 4028,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 201354,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Phil Deeley",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "1:01:00",
+      "Corrected": 4159,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 186067,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Mike Homer",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "1:01:06",
+      "Corrected": 4166,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 13662,
+      "Class": "GP14",
+      "PY": 1130,
+      "Fleet": "B",
+      "Helm": "Arthur Bedford",
+      "Crew": "Stuart Jones",
+      "Laps": 4,
+      "Time": "1:07:50",
+      "Corrected": 4502,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Fiona",
+      "Laps": 3,
+      "Time": "1:00:36",
+      "Corrected": 6184,
+      "&nbsp;": "",
+      "Pts": 7
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 209010,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "G",
+      "Helm": "Lazaros Andronis",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "55:33",
+      "Corrected": 2906,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 3787,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "G",
+      "Helm": "Chris Martin",
+      "Crew": "Matthew McLullich",
+      "Laps": 5,
+      "Time": "50:11",
+      "Corrected": 3072,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 20361,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "Ilana Davis",
+      "Laps": 4,
+      "Time": "54:08",
+      "Corrected": 3619,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Melanie Beavan",
+      "Laps": 4,
+      "Time": "51:30",
+      "Corrected": 3941,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": "",
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "B",
+      "Helm": "Igor Bakowsi",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "49:20",
+      "Corrected": 4301,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "George Bender",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "59:51",
+      "Corrected": 4471,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": "",
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "B",
+      "Helm": "Stuart Jones",
+      "Crew": "",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "DNF",
+      "Pts": 8
+    }
+  ]
+}

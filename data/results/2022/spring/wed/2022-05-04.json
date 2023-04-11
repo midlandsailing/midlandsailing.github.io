@@ -1,0 +1,103 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 4315,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "G",
+      "Helm": "Samuel Bailey",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "52:41",
+      "Corrected": 3460,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 414,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "58:37",
+      "Corrected": 3626,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 3670,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "G",
+      "Helm": "Mark McKeever",
+      "Crew": "Gracie McKeever",
+      "Laps": 5,
+      "Time": "59:35",
+      "Corrected": 3648,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 1274,
+      "Class": "Phantom",
+      "PY": 1004,
+      "Fleet": "B",
+      "Helm": "Evan Base",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "51:43",
+      "Corrected": 3863,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 516,
+      "Class": "RS300",
+      "PY": 970,
+      "Fleet": "G",
+      "Helm": "Lazaros Andronis",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "50:16",
+      "Corrected": 3887,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "60:06",
+      "Corrected": 4098,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": "",
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "B",
+      "Helm": "Ilana Davis",
+      "Crew": "",
+      "Laps": 3,
+      "Time": "49:23",
+      "Corrected": 4305,
+      "&nbsp;": "",
+      "Pts": 7
+    }
+  ]
+}

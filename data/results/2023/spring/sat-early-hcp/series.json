@@ -1,0 +1,250 @@
+{
+  "header": [
+    "#",
+    "Helm",
+    "Score",
+    {
+      "a": "Race 1",
+      "br": "",
+      "#text": "2023-04-01"
+    },
+    {
+      "a": "Race 2",
+      "br": "",
+      "#text": "2023-04-08"
+    }
+  ],
+  "racers": [
+    {
+      "#": "1st",
+      "Helm": "Jason Larner",
+      "Score": 3,
+      "Race 1": 1,
+      "Race 2": 2
+    },
+    {
+      "#": "2nd",
+      "Helm": "Phil Reeves",
+      "Score": 4,
+      "Race 1": 3,
+      "Race 2": 1
+    },
+    {
+      "#": "3rd",
+      "Helm": "Oliver Mason",
+      "Score": 8,
+      "Race 1": 2,
+      "Race 2": 6
+    },
+    {
+      "#": "4th",
+      "Helm": "Chris Skelcher",
+      "Score": 17,
+      "Race 1": 7,
+      "Race 2": 10
+    },
+    {
+      "#": "5th",
+      "Helm": "Dean Jung",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "NOP"
+    },
+    {
+      "#": "6th",
+      "Helm": "Mike Homer",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "NOP"
+    },
+    {
+      "#": "7th",
+      "Helm": "Evan Base",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "NOP"
+    },
+    {
+      "#": "8th",
+      "Helm": "Kevin Hopkins",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "NOP"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Barry Johnson",
+      "Score": 36,
+      "Race 1": "DNC",
+      "Race 2": 3
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Lawrence Bowbanks",
+      "Score": 37,
+      "Race 1": "DNC",
+      "Race 2": 4
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Megan Ward",
+      "Score": 37,
+      "Race 1": 4,
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Rob Thorp",
+      "Score": 38,
+      "Race 1": "DNC",
+      "Race 2": 5
+    },
+    {
+      "#": "DNQ",
+      "Helm": "John Couperthwaite",
+      "Score": 38,
+      "Race 1": 5,
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Trevor Pearson",
+      "Score": 39,
+      "Race 1": 6,
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Stephen Nicholson",
+      "Score": 40,
+      "Race 1": "DNC",
+      "Race 2": 7
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Julian Harms",
+      "Score": 41,
+      "Race 1": "DNC",
+      "Race 2": 8
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Douglas Bridger",
+      "Score": 42,
+      "Race 1": "DNC",
+      "Race 2": 9
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Stuart Jones",
+      "Score": 49,
+      "Race 1": "RET",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Tim Harms",
+      "Score": 59,
+      "Race 1": "DNC",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Jenny Chen",
+      "Score": 59,
+      "Race 1": "DNC",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Calum Bell",
+      "Score": 59,
+      "Race 1": "DNC",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Tony Fitzgerald",
+      "Score": 59,
+      "Race 1": "DNC",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Igor Bakowski",
+      "Score": 59,
+      "Race 1": "DNC",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Ota Dvorak",
+      "Score": 59,
+      "Race 1": "DNC",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "John Cooperthwaite",
+      "Score": 59,
+      "Race 1": "DNC",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Alex Homer",
+      "Score": 66,
+      "Race 1": "DNC",
+      "Race 2": "NOP"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Matthew McLullich",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Rob Kennaugh",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Lazaros Andronis",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Oliver Maclean",
+      "Score": 66,
+      "Race 1": "DNC",
+      "Race 2": "NOP"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Paul Young",
+      "Score": 66,
+      "Race 1": "DNC",
+      "Race 2": "NOP"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Mark McKeever",
+      "Score": 66,
+      "Race 1": "NOP",
+      "Race 2": "DNC"
+    },
+    {
+      "#": "DNQ",
+      "Helm": "Chris Winters",
+      "Score": 66,
+      "Race 1": "DNC",
+      "Race 2": "NOP"
+    }
+  ]
+}

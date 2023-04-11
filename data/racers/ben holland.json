@@ -1,0 +1,55 @@
+{
+  "2022": {
+    "summer": {
+      "sat-early": {
+        "2022-08-13.": {
+          "#": 9,
+          "SailNo": 3497,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Jan Holland",
+          "Crew": "Ben Holland",
+          "Laps": 3,
+          "Time": "57:08",
+          "Corrected": 4664,
+          "&nbsp;": "",
+          "Pts": 9
+        }
+      },
+      "sat-early-hcp": {
+        "2022-08-13.": {
+          "#": 9,
+          "SailNo": 3497,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Jan Holland",
+          "Crew": "Ben Holland",
+          "HCP": 1110,
+          "Laps": 3,
+          "Time": "57:08",
+          "Corrected": 4202,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "wed": {
+        "2022-08-03.": {
+          "#": 10,
+          "SailNo": 3497,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Jan Holland",
+          "Crew": "Ben Holland",
+          "Laps": 3,
+          "Time": "46:16",
+          "Corrected": 3777,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      }
+    }
+  }
+}

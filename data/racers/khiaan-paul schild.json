@@ -1,0 +1,32 @@
+{
+  "2022": {
+    "special": {
+      "hansa-2-3": {
+        "1.": {
+          "#": 2,
+          "SailNo": 1576,
+          "Helm": "Khiaan-Paul Schild",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2.": {
+          "#": 2,
+          "SailNo": 1576,
+          "Helm": "Khiaan-Paul Schild",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "3.": {
+          "#": 1,
+          "SailNo": 1576,
+          "Helm": "Khiaan-Paul Schild",
+          "Club": "Midland SC",
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

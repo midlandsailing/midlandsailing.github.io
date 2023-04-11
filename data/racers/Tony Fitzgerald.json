@@ -1,0 +1,72 @@
+{
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08": {
+          "#": 25,
+          "SailNo": 138,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "B",
+          "Helm": "Tony Fitzgerald",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "66:08",
+          "Corrected": 4762,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08": {
+          "#": 25,
+          "SailNo": 138,
+          "Class": "2.4mR",
+          "PY": 1250,
+          "Fleet": "--",
+          "Helm": "Tony Fitzgerald",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 26
+        }
+      },
+      "sat-late": {
+        "2023-04-08": {
+          "#": 21,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Tony Fitzgerald",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "56:34",
+          "Corrected": 5944,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08": {
+          "#": 17,
+          "SailNo": 4736,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "--",
+          "Helm": "Tony Fitzgerald",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 22
+        }
+      }
+    }
+  }
+}

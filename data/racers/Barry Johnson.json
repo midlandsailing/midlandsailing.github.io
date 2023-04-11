@@ -1,0 +1,301 @@
+{
+  "2022": {
+    "spring": {
+      "sat-early": {
+        "2022-05-14": {
+          "#": 12,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "63:33",
+          "Corrected": 5008,
+          "&nbsp;": "",
+          "Pts": 12
+        },
+        "2022-05-28": {
+          "#": 15,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "RET",
+          "Pts": 16
+        },
+        "2022-06-18": {
+          "#": 7,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 1,
+          "Time": "42:04",
+          "Corrected": 6630,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late": {
+        "2022-05-28": {
+          "#": 14,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "43:30",
+          "Corrected": 3428,
+          "&nbsp;": "",
+          "Pts": 14
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-07-09": {
+          "#": 10,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "44:58",
+          "Corrected": 4725,
+          "&nbsp;": "",
+          "Pts": 10
+        },
+        "2022-07-16": {
+          "#": 5,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "68:24",
+          "Corrected": 5391,
+          "&nbsp;": "",
+          "Pts": 5
+        },
+        "2022-07-23": {
+          "#": 12,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "42:25",
+          "Corrected": 4457,
+          "&nbsp;": "",
+          "Pts": 12
+        },
+        "2022-07-30": {
+          "#": 8,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "44:14",
+          "Corrected": 4648,
+          "&nbsp;": "",
+          "Pts": 8
+        },
+        "2022-08-06": {
+          "#": 6,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "58:10",
+          "Corrected": 4584,
+          "&nbsp;": "",
+          "Pts": 6
+        },
+        "2022-09-24": {
+          "#": 8,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "42:24",
+          "Corrected": 3342,
+          "&nbsp;": "",
+          "Pts": 8
+        }
+      },
+      "sat-early-hcp": {
+        "2022-07-09": {
+          "#": 9,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "HCP": 1587,
+          "Laps": 2,
+          "Time": "44:58",
+          "Corrected": 2977,
+          "&nbsp;": "",
+          "Pts": 7
+        },
+        "2022-07-16": {
+          "#": 1,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "HCP": 1587,
+          "Laps": 2,
+          "Time": "68:24",
+          "Corrected": 3397,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-07-23": {
+          "#": 1,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "HCP": 1587,
+          "Laps": 2,
+          "Time": "42:25",
+          "Corrected": 2808,
+          "&nbsp;": "",
+          "Pts": 1
+        },
+        "2022-07-30": {
+          "#": 2,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "HCP": 1587,
+          "Laps": 2,
+          "Time": "44:14",
+          "Corrected": 2929,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-08-06": {
+          "#": 2,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "HCP": 1587,
+          "Laps": 2,
+          "Time": "58:10",
+          "Corrected": 2888,
+          "&nbsp;": "",
+          "Pts": 2
+        },
+        "2022-09-24": {
+          "#": 1,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "HCP": 1587,
+          "Laps": 2,
+          "Time": "42:24",
+          "Corrected": 2106,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2022-01-15": {
+          "#": 10,
+          "SailNo": 3615,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "55:10",
+          "Corrected": 4348,
+          "&nbsp;": "",
+          "Pts": 10
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08": {
+          "#": 24,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "Laps": 2,
+          "Time": "53:14",
+          "Corrected": 4195,
+          "&nbsp;": "",
+          "Pts": 22
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08": {
+          "#": 3,
+          "SailNo": 3614,
+          "Class": "Solo",
+          "PY": 1142,
+          "Fleet": "B",
+          "Helm": "Barry Johnson",
+          "Crew": "",
+          "HCP": 1582,
+          "Laps": 2,
+          "Time": "53:14",
+          "Corrected": 2652,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      }
+    }
+  }
+}

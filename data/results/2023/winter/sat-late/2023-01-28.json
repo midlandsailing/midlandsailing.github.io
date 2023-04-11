@@ -1,0 +1,61 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 22901,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "G",
+      "Helm": "Paul Young",
+      "Crew": "Lauren Morgan",
+      "Laps": 2,
+      "Time": "53:18",
+      "Corrected": 2850,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 165490,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "S",
+      "Helm": "Dean Jung",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "56:12",
+      "Corrected": 3065,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 4348,
+      "Class": "Solo",
+      "PY": 1142,
+      "Fleet": "S",
+      "Helm": "Lawrence Bowbanks",
+      "Crew": "",
+      "Laps": 2,
+      "Time": "60:50",
+      "Corrected": 3196,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 13789,
+      "Class": "GP14",
+      "PY": 1130,
+      "Fleet": "B",
+      "Helm": "Douglas Bridger",
+      "Crew": "Ilana Davis",
+      "Laps": 2,
+      "Time": "66:50",
+      "Corrected": 3549,
+      "&nbsp;": "",
+      "Pts": 4
+    }
+  ]
+}

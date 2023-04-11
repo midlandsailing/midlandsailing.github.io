@@ -1,0 +1,72 @@
+{
+  "2023": {
+    "winter": {
+      "sat-early": {
+        "2023-02-25": {
+          "#": 13,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Bevan",
+          "Laps": 4,
+          "Time": "59:58",
+          "Corrected": 4589,
+          "&nbsp;": "",
+          "Pts": 13
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-25": {
+          "#": 3,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Bevan",
+          "HCP": 1271,
+          "Laps": 4,
+          "Time": "59:58",
+          "Corrected": 3611,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late": {
+        "2023-02-25": {
+          "#": 13,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Bevan",
+          "Laps": 3,
+          "Time": "47:05",
+          "Corrected": 3844,
+          "&nbsp;": "",
+          "Pts": 13
+        }
+      },
+      "sat-late-hcp": {
+        "2023-02-25": {
+          "#": 4,
+          "SailNo": 3530,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Mike Colles",
+          "Crew": "Melanie Bevan",
+          "HCP": 1271,
+          "Laps": 3,
+          "Time": "47:05",
+          "Corrected": 3024,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      }
+    }
+  }
+}

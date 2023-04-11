@@ -1,0 +1,68 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": "",
+      "Helm": "Jonathan Woodward",
+      "Crew": "Matt Smith",
+      "Club": "South Staffs",
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": "",
+      "Helm": "Martin Davies",
+      "Crew": "Aimee Allsopp",
+      "Club": "Rugby & Daventry",
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 22901,
+      "Helm": "Paul Young",
+      "Crew": "Jan Kimber",
+      "Club": "Midland SC",
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 20361,
+      "Helm": "Oliver Mason",
+      "Crew": "Megan Ward",
+      "Club": "Midland SC",
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": "",
+      "Helm": "Mike Homer",
+      "Crew": "George Bender",
+      "Club": "Midland SC",
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 19041,
+      "Helm": "David Wheeler",
+      "Crew": "Phil Deeley",
+      "Club": "Midland SC",
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": "",
+      "Helm": "Richard Adams",
+      "Crew": "Charlotte Adams",
+      "Club": "Midland SC",
+      "&nbsp;": "RET",
+      "Pts": 8
+    }
+  ]
+}

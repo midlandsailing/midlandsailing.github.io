@@ -1,0 +1,166 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-08.": {
+          "#": 5,
+          "SailNo": 3787,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "Laps": 5,
+          "Time": "55:24",
+          "Corrected": 3392,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-08.": {
+          "#": 9,
+          "SailNo": 3787,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "HCP": 1002,
+          "Laps": 5,
+          "Time": "55:24",
+          "Corrected": 3392,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-10-08.": {
+          "#": 3,
+          "SailNo": 3787,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "Laps": 5,
+          "Time": "61:18",
+          "Corrected": 3753,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-08.": {
+          "#": 8,
+          "SailNo": 3787,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "HCP": 1002,
+          "Laps": 5,
+          "Time": "61:18",
+          "Corrected": 3753,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    },
+    "summer": {
+      "sat-early": {
+        "2022-09-17.": {
+          "#": 3,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "Laps": 4,
+          "Time": "51:28",
+          "Corrected": 2966,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-09-24.": {
+          "#": 1,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "Laps": 3,
+          "Time": "49:18",
+          "Corrected": 2841,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      },
+      "sat-early-hcp": {
+        "2022-09-17.": {
+          "#": 7,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "HCP": 1003,
+          "Laps": 4,
+          "Time": "51:28",
+          "Corrected": 2966,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        },
+        "2022-09-24.": {
+          "#": 7,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "HCP": 1003,
+          "Laps": 3,
+          "Time": "49:18",
+          "Corrected": 2841,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-09-17.": {
+          "#": 3,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "Laps": 4,
+          "Time": "58:13",
+          "Corrected": 3355,
+          "&nbsp;": "",
+          "Pts": 3
+        },
+        "2022-09-24.": {
+          "#": 1,
+          "SailNo": 1969,
+          "Class": "Scorpion",
+          "PY": 1041,
+          "Fleet": "G",
+          "Helm": "Chris Martin",
+          "Crew": "Matt McLullich",
+          "Laps": 3,
+          "Time": "45:50",
+          "Corrected": 2642,
+          "&nbsp;": "",
+          "Pts": 1
+        }
+      }
+    }
+  }
+}

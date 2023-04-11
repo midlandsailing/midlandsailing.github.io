@@ -1,0 +1,75 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 3700,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "G",
+      "Helm": "Rob Kennaugh",
+      "Crew": "Andrew Prosser",
+      "Laps": 5,
+      "Time": "57:40",
+      "Corrected": 3531,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 150112,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Fleet": "B",
+      "Helm": "Matthew McLullich",
+      "Crew": "",
+      "Laps": 5,
+      "Time": "70:48",
+      "Corrected": 3704,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 22901,
+      "Class": "Enterprise",
+      "PY": 1122,
+      "Fleet": "G",
+      "Helm": "Paul Young",
+      "Crew": "Jan Kimber",
+      "Laps": 4,
+      "Time": "58:04",
+      "Corrected": 3881,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Fleet": "B",
+      "Helm": "Oliver Mason",
+      "Crew": "",
+      "Laps": 4,
+      "Time": "58:52",
+      "Corrected": 4014,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 3530,
+      "Class": "Merlin Rocket",
+      "PY": 980,
+      "Fleet": "B",
+      "Helm": "Mike Colles",
+      "Crew": "Lauren Morgan",
+      "Laps": "&nbsp;",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "RET",
+      "Pts": 6
+    }
+  ]
+}

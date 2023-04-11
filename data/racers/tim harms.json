@@ -1,0 +1,210 @@
+{
+  "2022": {
+    "autumn": {
+      "sat-early": {
+        "2022-10-22.": {
+          "#": 3,
+          "SailNo": 3700,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Rob Kennaugh",
+          "Crew": "Tim Harms",
+          "Laps": 4,
+          "Time": "53:35",
+          "Corrected": 3281,
+          "&nbsp;": "",
+          "Pts": 3
+        }
+      },
+      "sat-early-hcp": {
+        "2022-10-22.": {
+          "#": 8,
+          "SailNo": 3700,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Rob Kennaugh",
+          "Crew": "Tim Harms",
+          "HCP": 1006,
+          "Laps": 4,
+          "Time": "53:35",
+          "Corrected": 3281,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      },
+      "sat-late": {
+        "2022-10-22.": {
+          "#": 6,
+          "SailNo": 3700,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Rob Kennaugh",
+          "Crew": "Tim Harms",
+          "Laps": 4,
+          "Time": "52:41",
+          "Corrected": 3226,
+          "&nbsp;": "",
+          "Pts": 6
+        }
+      },
+      "sat-late-hcp": {
+        "2022-10-22.": {
+          "#": 11,
+          "SailNo": 3700,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "G",
+          "Helm": "Rob Kennaugh",
+          "Crew": "Tim Harms",
+          "HCP": 1006,
+          "Laps": 4,
+          "Time": "52:41",
+          "Corrected": 3226,
+          "&nbsp;": "NOP",
+          "Pts": "--"
+        }
+      }
+    }
+  },
+  "2023": {
+    "spring": {
+      "sat-early": {
+        "2023-04-08.": {
+          "#": 17,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "B",
+          "Helm": "Tim Harms",
+          "Crew": "",
+          "Laps": 3,
+          "Time": "54:22",
+          "Corrected": 3249,
+          "&nbsp;": "",
+          "Pts": 15
+        }
+      },
+      "sat-early-hcp": {
+        "2023-04-08.": {
+          "#": 20,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "--",
+          "Helm": "Tim Harms",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 26
+        }
+      },
+      "sat-late": {
+        "2023-04-08.": {
+          "#": 9,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "B",
+          "Helm": "Tim Harms",
+          "Crew": "",
+          "Laps": 4,
+          "Time": "60:51",
+          "Corrected": 3636,
+          "&nbsp;": "",
+          "Pts": 7
+        }
+      },
+      "sat-late-hcp": {
+        "2023-04-08.": {
+          "#": 16,
+          "SailNo": 1430,
+          "Class": "Phantom",
+          "PY": 1004,
+          "Fleet": "--",
+          "Helm": "Tim Harms",
+          "Crew": "",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 22
+        }
+      }
+    },
+    "winter": {
+      "sat-early": {
+        "2023-02-25.": {
+          "#": 5,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Tim Harms",
+          "Laps": 4,
+          "Time": "52:51",
+          "Corrected": 4045,
+          "&nbsp;": "",
+          "Pts": 5
+        }
+      },
+      "sat-early-hcp": {
+        "2023-02-25.": {
+          "#": 4,
+          "SailNo": 3794,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "S",
+          "Helm": "Julian Harms",
+          "Crew": "Tim Harms",
+          "HCP": 1113,
+          "Laps": 4,
+          "Time": "52:51",
+          "Corrected": 3634,
+          "&nbsp;": "",
+          "Pts": 4
+        }
+      },
+      "sat-late": {
+        "2023-01-14.": {
+          "#": 5,
+          "SailNo": 3518,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "B",
+          "Helm": "Tim Harms",
+          "Crew": "George Bender",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNF",
+          "Pts": 6
+        }
+      },
+      "sat-late-hcp": {
+        "2023-01-14.": {
+          "#": 5,
+          "SailNo": 3518,
+          "Class": "Merlin Rocket",
+          "PY": 980,
+          "Fleet": "--",
+          "Helm": "Tim Harms",
+          "Crew": "George Bender",
+          "HCP": "",
+          "Laps": "&nbsp;",
+          "Time": "&nbsp;",
+          "Corrected": "&nbsp;",
+          "&nbsp;": "DNC",
+          "Pts": 6
+        }
+      }
+    }
+  }
+}

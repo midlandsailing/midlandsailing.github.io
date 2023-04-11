@@ -1,0 +1,149 @@
+{
+  "racers": [
+    null,
+    {
+      "#": 1,
+      "SailNo": 213608,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Helm": "George Fereday",
+      "Club": "Earlswood Lakes",
+      "Time": "47:59",
+      "Corrected": 2510,
+      "&nbsp;": "",
+      "Pts": 1
+    },
+    {
+      "#": 2,
+      "SailNo": 219662,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "John Ling",
+      "Club": "Bartley SC",
+      "Time": "47:15",
+      "Corrected": 2577,
+      "&nbsp;": "",
+      "Pts": 2
+    },
+    {
+      "#": 3,
+      "SailNo": 208674,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Neil Crosby",
+      "Club": "Bowmoor SC",
+      "Time": "48:07",
+      "Corrected": 2625,
+      "&nbsp;": "",
+      "Pts": 3
+    },
+    {
+      "#": 4,
+      "SailNo": 82560,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Dean Jung",
+      "Club": "Midland SC",
+      "Time": "49:35",
+      "Corrected": 2705,
+      "&nbsp;": "",
+      "Pts": 4
+    },
+    {
+      "#": 5,
+      "SailNo": 212087,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Helm": "Millie Hardiman",
+      "Club": "Bartley SC",
+      "Time": "52:21",
+      "Corrected": 2738,
+      "&nbsp;": "",
+      "Pts": 5
+    },
+    {
+      "#": 6,
+      "SailNo": 121986,
+      "Class": "ILCA 6",
+      "PY": 1147,
+      "Helm": "Ilana Davis",
+      "Club": "Midland SC",
+      "Time": "53:56",
+      "Corrected": 2821,
+      "&nbsp;": "",
+      "Pts": 6
+    },
+    {
+      "#": 7,
+      "SailNo": 172283,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Rob Thorp",
+      "Club": "Midland SC",
+      "Time": "51:55",
+      "Corrected": 2832,
+      "&nbsp;": "",
+      "Pts": 7
+    },
+    {
+      "#": 8,
+      "SailNo": 77637,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Phil Reeves",
+      "Club": "Midland SC",
+      "Time": "52:57",
+      "Corrected": 2888,
+      "&nbsp;": "",
+      "Pts": 8
+    },
+    {
+      "#": 9,
+      "SailNo": 201354,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Phil Deeley",
+      "Club": "Midland SC",
+      "Time": "52:58",
+      "Corrected": 2889,
+      "&nbsp;": "",
+      "Pts": 9
+    },
+    {
+      "#": 10,
+      "SailNo": 168859,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Maria Hilbert",
+      "Club": "Midland SC",
+      "Time": "52:59",
+      "Corrected": 2890,
+      "&nbsp;": "",
+      "Pts": 10
+    },
+    {
+      "#": 11,
+      "SailNo": 102727,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Oliver Mason",
+      "Club": "Midland SC",
+      "Time": "53:00",
+      "Corrected": 2891,
+      "&nbsp;": "",
+      "Pts": 11
+    },
+    {
+      "#": 12,
+      "SailNo": 212061,
+      "Class": "ILCA 7",
+      "PY": 1100,
+      "Helm": "Simon Hardiman",
+      "Club": "Bartley SC",
+      "Time": "&nbsp;",
+      "Corrected": "&nbsp;",
+      "&nbsp;": "OCS",
+      "Pts": 13
+    }
+  ]
+}
